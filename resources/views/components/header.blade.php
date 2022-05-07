@@ -23,8 +23,7 @@
                             <li class="nav-item"><a class="nav-link smoth-animation" href="#portfolio">Portfolio</a></li>
                             <li class="nav-item"><a class="nav-link smoth-animation" href="#resume">Resume</a></li>
                             <li class="nav-item"><a class="nav-link smoth-animation" href="#clients">Clients</a></li>
-                            <li class="nav-item"><a class="nav-link smoth-animation" href="#pricing">Pricing</a></li>
-                            <li class="nav-item"><a class="nav-link smoth-animation" href="#blog">blog</a></li>
+                            {{-- <li class="nav-item"><a class="nav-link smoth-animation" href="#blog">blog</a></li> --}}
 
                         </ul>
                         <!-- End Mainmanu Nav -->
