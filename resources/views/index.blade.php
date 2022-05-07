@@ -93,7 +93,7 @@
                     <div class="col-lg-12">
                         <div class="section-title text-left" data-aos="fade-up" data-aos-duration="500" data-aos-delay="100" data-aos-once="true">
                             <span class="subtitle">Features</span>
-                            <h2 class="title">What I Do</h2>
+                            <h2 class="title">What I Expertise In </h2>
                         </div>
                     </div>
                 </div>
@@ -104,10 +104,10 @@
                         <div class="rn-service">
                             <div class="inner">
                                 <div class="icon">
-                                    <i data-feather="menu"></i>
+                                    <i data-feather="codesandbox"></i>
                                 </div>
                                 <div class="content">
-                                    <h4 class="title"><a href="#">Business Stratagy</a></h4>
+                                    <h4 class="title"><a href="#">Development Stratagy</a></h4>
                                     <p class="description">I throw myself down among the tall grass by the stream as I
                                         lie close to the earth.</p>
                                     <a class="read-more-button" href="#"><i class="feather-arrow-right"></i></a>
@@ -122,10 +122,10 @@
                         <div class="rn-service">
                             <div class="inner">
                                 <div class="icon">
-                                    <i data-feather="book-open"></i>
+                                    <i data-feather="command"></i>
                                 </div>
                                 <div class="content">
-                                    <h4 class="title"><a href="#">App Development</a></h4>
+                                    <h4 class="title"><a href="#">Project Management</a></h4>
                                     <p class="description"> It uses a dictionary of over 200 Latin words, combined with
                                         a handful of model sentence.</p>
                                     <a class="read-more-button" href="#"><i class="feather-arrow-right"></i></a>
@@ -140,10 +140,10 @@
                         <div class="rn-service">
                             <div class="inner">
                                 <div class="icon">
-                                    <i data-feather="tv"></i>
+                                    <i data-feather="globe"></i>
                                 </div>
                                 <div class="content">
-                                    <h4 class="title"><a href="#">App Development</a></h4>
+                                    <h4 class="title"><a href="#">Web Development</a></h4>
                                     <p class="description">I throw myself down among the tall grass by the stream as I
                                         lie close to the earth.</p>
                                     <a class="read-more-button" href="#"><i class="feather-arrow-right"></i></a>
@@ -158,10 +158,10 @@
                         <div class="rn-service">
                             <div class="inner">
                                 <div class="icon">
-                                    <i data-feather="twitch"></i>
+                                    <i data-feather="smartphone"></i>
                                 </div>
                                 <div class="content">
-                                    <h4 class="title"><a href="#">Mobile App</a></h4>
+                                    <h4 class="title"><a href="#">App Development</a></h4>
                                     <p class="description">There are many variations of passages of Lorem Ipsum
                                         available, but the majority.
                                     </p>
@@ -177,10 +177,10 @@
                         <div class="rn-service">
                             <div class="inner">
                                 <div class="icon">
-                                    <i data-feather="wifi"></i>
+                                    <i data-feather="slack"></i>
                                 </div>
                                 <div class="content">
-                                    <h4 class="title"><a href="#">CEO Marketing</a></h4>
+                                    <h4 class="title"><a href="#">Requirement Analysis</a></h4>
                                     <p class="description">always free from repetition,
                                         injected humour, or non-characteristic words etc.</p>
                                     <a class="read-more-button" href="#"><i class="feather-arrow-right"></i></a>
@@ -195,10 +195,10 @@
                         <div class="rn-service">
                             <div class="inner">
                                 <div class="icon">
-                                    <i data-feather="slack"></i>
+                                    <i data-feather="twitch"></i>
                                 </div>
                                 <div class="content">
-                                    <h4 class="title"><a href="#">Personal Portfolio April</a></h4>
+                                    <h4 class="title"><a href="#">Business Consultancy </a></h4>
                                     <p class="description"> It uses a dictionary of over 200 Latin words, combined with
                                         a handful of model sentence.</p>
                                     <a class="read-more-button" href="#"><i class="feather-arrow-right"></i></a>
@@ -390,6 +390,9 @@
                     <!-- End Single Portfolio -->
                 </div>
             </div>
+            {{-- <div class="col-lg-12 text-center mt-5">
+                <a class="rn-btn" href="#">Check All Portfolio <i class="feather-loader"></i></a>
+            </div> --}}
         </div>
         <!-- End portfolio Area -->
 
@@ -399,7 +402,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="section-title text-center">
-                            <span class="subtitle">7+ Years of Experience</span>
+                            <span class="subtitle">3+ Years of Experience</span>
                             <h2 class="title">My Resume</h2>
                         </div>
                     </div>
@@ -418,7 +421,7 @@
                                 <a class="nav-link" id="experience-tab" data-toggle="tab" href="#experience" role="tab" aria-controls="experience" aria-selected="false">experience</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" id="interview-tab" data-toggle="tab" href="#interview" role="tab" aria-controls="interview" aria-selected="false">interview</a>
+                                <a class="nav-link" id="interview-tab" data-toggle="tab" href="#interview" role="tab" aria-controls="interview" aria-selected="false">Achievements</a>
                             </li>
                         </ul>
                         <!-- Start Tab Content Wrapper  -->
@@ -430,8 +433,8 @@
                                         <!-- Start Skill List Area  -->
                                         <div class="col-lg-6 col-md-12 col-12">
                                             <div class="content">
-                                                <span class="subtitle">2007 - 2010</span>
-                                                <h4 class="maintitle">Education Quality</h4>
+                                                <span class="subtitle">2011-2020</span>
+                                                <h4 class="maintitle">Academics</h4>
                                                 <div class="experience-list">
 
                                                     <!-- Start Single List  -->
@@ -439,17 +442,17 @@
                                                         <div class="inner">
                                                             <div class="heading">
                                                                 <div class="title">
-                                                                    <h4>Personal Portfolio April Fools</h4>
-                                                                    <span>University of DVI (1997 - 2001)</span>
+                                                                    <h4>Bachelor of Information Technology</h4>
+                                                                    <span>University of Malaya, Kuala Lumpur (2016 - 2020)</span>
                                                                 </div>
                                                                 <div class="date-of-time">
-                                                                    <span>4.30/5</span>
+                                                                    <span>3.82/4.00</span>
                                                                 </div>
                                                             </div>
-                                                            <p class="description">The education should be very
-                                                                interactual. Ut tincidunt est ac dolor aliquam sodales.
-                                                                Phasellus sed mauris hendrerit, laoreet sem in, lobortis
-                                                                mauris hendrerit ante.</p>
+                                                            <p class="description">Received 
+                                                                DISTINCTION for extra ordinary 
+                                                                academic performance from Faculty
+                                                            of Computer Science & IT.</p>
                                                         </div>
                                                     </div>
                                                     <!-- End Single List  -->
@@ -459,17 +462,14 @@
                                                         <div class="inner">
                                                             <div class="heading">
                                                                 <div class="title">
-                                                                    <h4> Examples Of Personal Portfolio</h4>
-                                                                    <span>College of Studies (2000 - 2002)</span>
+                                                                    <h4> Higher Secondary Certificate</h4>
+                                                                    <span>Rajuk Uttara Model College, Dhaka (2013 - 2015)</span>
                                                                 </div>
                                                                 <div class="date-of-time">
-                                                                    <span>4.50/5</span>
+                                                                    <span>5.00/5.00</span>
                                                                 </div>
                                                             </div>
-                                                            <p class="description">Maecenas finibus nec sem ut
-                                                                imperdiet. Ut tincidunt est ac dolor aliquam sodales.
-                                                                Phasellus sed mauris hendrerit, laoreet sem in, lobortis
-                                                                mauris hendrerit ante.</p>
+                                                            
                                                         </div>
                                                     </div>
                                                     <!-- End Single List  -->
@@ -479,17 +479,14 @@
                                                         <div class="inner">
                                                             <div class="heading">
                                                                 <div class="title">
-                                                                    <h4>Tips For Personal Portfolio</h4>
-                                                                    <span>University of Studies (1997 - 2001)</span>
+                                                                    <h4>Secondary School Certificate</h4>
+                                                                    <span>SOS Hermann Gmeiner College, Dhaka (2011 - 2013)</span>
                                                                 </div>
                                                                 <div class="date-of-time">
-                                                                    <span>4.80/5</span>
+                                                                    <span>5.00/5.00</span>
                                                                 </div>
                                                             </div>
-                                                            <p class="description"> If you are going to use a passage.
-                                                                Ut tincidunt est ac dolor aliquam sodales.
-                                                                Phasellus sed mauris hendrerit, laoreet sem in, lobortis
-                                                                mauris hendrerit ante.</p>
+                                                            
                                                         </div>
                                                     </div>
                                                     <!-- End Single List  -->
@@ -502,8 +499,8 @@
                                         <!-- Start Skill List Area 2nd  -->
                                         <div class="col-lg-6 col-md-12 col-12 mt_md--60 mt_sm--60">
                                             <div class="content">
-                                                <span class="subtitle">2007 - 2010</span>
-                                                <h4 class="maintitle">Job Experience</h4>
+                                                <span class="subtitle">2018 - Ongoing</span>
+                                                <h4 class="maintitle">Course & Certifications</h4>
                                                 <div class="experience-list">
 
                                                     <!-- Start Single List  -->
@@ -1019,218 +1016,7 @@
             </div>
         </div>
         <!-- End Resume Area -->
-        <!-- Start Testimonia Area  -->
-        <div class="rn-testimonial-area rn-section-gap section-separator" id="testimonial">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="section-title text-center">
-                            <span class="subtitle">What Clients Say</span>
-                            <h2 class="title">Testimonial</h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="testimonial-activation testimonial-pb mb--30">
-                            <!-- Start Single testiminail -->
-                            <div class="testimonial mt--50 mt_md--40 mt_sm--40">
-                                <div class="inner">
-                                    <div class="card-info">
-                                        <div class="card-thumbnail">
-                                            <img src="assets/images/testimonial/final-home--1st.png" alt="Testimonial-image">
-                                        </div>
-                                        <div class="card-content">
-                                            <span class="subtitle mt--10">Rainbow-Themes</span>
-                                            <h3 class="title">Nevine Acotanza</h3>
-                                            <span class="designation">Chief Operating Officer</span>
-                                        </div>
-                                    </div>
-                                    <div class="card-description">
-                                        <div class="title-area">
-                                            <div class="title-info">
-                                                <h3 class="title">Android App Development</h3>
-                                                <span class="date">via Upwork - Mar 4, 2015 - Aug 30, 2021</span>
-                                            </div>
-                                            <div class="rating">
-                                                <img src="assets/images/icons/rating.png" alt="rating-image">
-                                                <img src="assets/images/icons/rating.png" alt="rating-image">
-                                                <img src="assets/images/icons/rating.png" alt="rating-image">
-                                                <img src="assets/images/icons/rating.png" alt="rating-image">
-                                                <img src="assets/images/icons/rating.png" alt="rating-image">
-                                            </div>
-                                        </div>
-                                        <div class="seperator"></div>
-                                        <p class="discription">
-                                            Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam
-                                            sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris
-                                            hendrerit ante. Ut tincidunt est ac dolor aliquam sodales phasellus smauris
-                                            .
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--End Single testiminail -->
-                            <!-- Start Single testiminail -->
-                            <div class="testimonial mt--50 mt_md--40 mt_sm--40">
-                                <div class="inner">
-                                    <div class="card-info">
-                                        <div class="card-thumbnail">
-                                            <img src="assets/images/testimonial/final-home--2nd.png" alt="Testimonial-image">
-                                        </div>
-                                        <div class="card-content">
-                                            <span class="subtitle mt--10">Bound - Trolola</span>
-                                            <h3 class="title">Jone Duone Joe</h3>
-                                            <span class="designation">Operating Officer</span>
-                                        </div>
-                                    </div>
-                                    <div class="card-description">
-                                        <div class="title-area">
-                                            <div class="title-info">
-                                                <h3 class="title">Web App Development</h3>
-                                                <span class="date">Upwork - Mar 4, 2016 - Aug 30, 2021</span>
-                                            </div>
-                                            <div class="rating">
-                                                <img src="assets/images/icons/rating.png" alt="rating-image">
-                                                <img src="assets/images/icons/rating.png" alt="rating-image">
-                                                <img src="assets/images/icons/rating.png" alt="rating-image">
-                                                <img src="assets/images/icons/rating.png" alt="rating-image">
-                                                <img src="assets/images/icons/rating.png" alt="rating-image">
-                                            </div>
-                                        </div>
-                                        <div class="seperator"></div>
-                                        <p class="discription">
-                                            Important fact to nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam
-                                            sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris
-                                            hendrerit ante. Ut tincidunt est ac dolor aliquam sodales phasellus smauris
-                                            .
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--End Single testiminail -->
-                            <!-- Start Single testiminail -->
-                            <div class="testimonial mt--50 mt_md--40 mt_sm--40">
-                                <div class="inner">
-                                    <div class="card-info">
-                                        <div class="card-thumbnail">
-                                            <img src="assets/images/testimonial/final-home--3rd.png" alt="Testimonial-image">
-                                        </div>
-                                        <div class="card-content">
-                                            <span class="subtitle mt--10">Glassfisom</span>
-                                            <h3 class="title">Nevine Dhawan</h3>
-                                            <span class="designation">CEO Of Officer</span>
-                                        </div>
-                                    </div>
-                                    <div class="card-description">
-                                        <div class="title-area">
-                                            <div class="title-info">
-                                                <h3 class="title">Android App Design</h3>
-                                                <span class="date">Fiver - Mar 4, 2015 - Aug 30, 2021</span>
-                                            </div>
-                                            <div class="rating">
-                                                <img src="assets/images/icons/rating.png" alt="rating-image">
-                                                <img src="assets/images/icons/rating.png" alt="rating-image">
-                                                <img src="assets/images/icons/rating.png" alt="rating-image">
-                                                <img src="assets/images/icons/rating.png" alt="rating-image">
-                                                <img src="assets/images/icons/rating.png" alt="rating-image">
-                                            </div>
-                                        </div>
-                                        <div class="seperator"></div>
-                                        <p class="discription">
-                                            No more question for design. Ut tincidunt est ac dolor aliquam
-                                            sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris
-                                            hendrerit ante. Ut tincidunt est ac dolor aliquam sodales phasellus smauris
-                                            .
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--End Single testiminail -->
 
-                            <!-- Start Single testiminail -->
-                            <div class="testimonial mt--50 mt_md--40 mt_sm--40">
-                                <div class="inner">
-                                    <div class="card-info">
-                                        <div class="card-thumbnail">
-                                            <img src="assets/images/testimonial/final-home--4th.png" alt="Testimonial-image">
-                                        </div>
-                                        <div class="card-content">
-                                            <span class="subtitle mt--10">NCD - Design</span>
-                                            <h3 class="title">Mevine Thoda</h3>
-                                            <span class="designation">Marketing Officer</span>
-                                        </div>
-                                    </div>
-                                    <div class="card-description">
-                                        <div class="title-area">
-                                            <div class="title-info">
-                                                <h3 class="title">CEO - Marketing</h3>
-                                                <span class="date">Thoda Department - Mar 4, 2018 - Aug 30, 2021</span>
-                                            </div>
-                                            <div class="rating">
-                                                <img src="assets/images/icons/rating.png" alt="rating-image">
-                                                <img src="assets/images/icons/rating.png" alt="rating-image">
-                                                <img src="assets/images/icons/rating.png" alt="rating-image">
-                                                <img src="assets/images/icons/rating.png" alt="rating-image">
-                                                <img src="assets/images/icons/rating.png" alt="rating-image">
-                                            </div>
-                                        </div>
-                                        <div class="seperator"></div>
-                                        <p class="discription">
-                                            Marcent Of Vanice and treatment. Ut tincidunt est ac dolor aliquam
-                                            sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris
-                                            hendrerit ante. Ut tincidunt est ac dolor aliquam sodales phasellus smauris
-                                            .
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--End Single testiminail -->
-
-                            <!-- Start Single testiminail -->
-                            <div class="testimonial mt--50 mt_md--40 mt_sm--40">
-                                <div class="inner">
-                                    <div class="card-info">
-                                        <div class="card-thumbnail">
-                                            <img src="assets/images/testimonial/final-home--5th.png" alt="Testimonial-image">
-                                        </div>
-                                        <div class="card-content">
-                                            <span class="subtitle mt--10">Default name</span>
-                                            <h3 class="title">Davei Luace</h3>
-                                            <span class="designation">Chief Operating Manager</span>
-                                        </div>
-                                    </div>
-                                    <div class="card-description">
-                                        <div class="title-area">
-                                            <div class="title-info">
-                                                <h3 class="title">Android App Development</h3>
-                                                <span class="date">via Upwork - Mar 4, 2015 - Aug 30, 2021</span>
-                                            </div>
-                                            <div class="rating">
-                                                <img src="assets/images/icons/rating.png" alt="rating-image">
-                                                <img src="assets/images/icons/rating.png" alt="rating-image">
-                                                <img src="assets/images/icons/rating.png" alt="rating-image">
-                                                <img src="assets/images/icons/rating.png" alt="rating-image">
-                                                <img src="assets/images/icons/rating.png" alt="rating-image">
-                                            </div>
-                                        </div>
-                                        <div class="seperator"></div>
-                                        <p class="discription">
-                                            When managment is so important. Ut tincidunt est ac dolor aliquam
-                                            sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris
-                                            hendrerit ante. Ut tincidunt est ac dolor aliquam sodales phasellus smauris
-                                            .
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--End Single testiminail -->
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- End Testimonia Area  -->
         <!-- Start Client Area -->
         <div class="rn-client-area rn-section-gap section-separator" id="clients">
             <div class="container">
@@ -2267,323 +2053,222 @@
             </div>
         </div>
         <!-- End client section -->
-        <!-- Pricing Area -->
-        <div class="rn-pricing-area rn-section-gap section-separator" id="pricing">
+
+                <!-- Start Testimonia Area  -->
+        <div class="rn-testimonial-area rn-section-gap section-separator" id="testimonial">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-4 col-xl-5 mb_md--40 mb_sm--40 small-margin-pricing">
-                        <div class="d-block d-lg-flex text-center d-lg-left section-flex flex-wrap align-content-start h-100">
-                            <div class="position-sticky sticky-top rbt-sticky-top-adjust">
-                                <div class="section-title text-left">
-                                    <span class="subtitle text-center text-lg-left">Pricing</span>
-                                    <h2 class="title text-center text-lg-left">My Pricing</h2>
-                                </div>
-                            </div>
+                    <div class="col-lg-12">
+                        <div class="section-title text-center">
+                            <span class="subtitle">What Clients Say</span>
+                            <h2 class="title">Testimonial</h2>
                         </div>
                     </div>
-
-                    <div class="col-lg-8 col-xl-7">
-                        <!-- Pricing Area -->
-                        <div class="navigation-wrapper">
-                            <ul class="nav " id="myTab" role="tablist">
-                                <li class="nav-item ">
-                                    <a class="nav-style" id="test-tab" data-toggle="tab" href="#test" role="tab" aria-controls="test" aria-selected="false">Static</a>
-                                </li>
-
-                                <li class="nav-item  recommended">
-                                    <a class="nav-style active" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="true">Standard</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-style" id="contact-tab" data-toggle="tab" href="#contact" role="tab" aria-controls="contact" aria-selected="false">Premium</a>
-                                </li>
-                            </ul>
-                            <div class="tab-content" id="myTabContent">
-
-                                <div class="tab-pane fade " id="test" role="tabpanel" aria-labelledby="test-tab">
-                                    <!-- Pricing Start -->
-                                    <div class="rn-pricing">
-                                        <div class="pricing-header">
-                                            <div class="header-left">
-                                                <h2 class="title">Make Your Single Page</h2>
-                                                <span>Elementor</span>
-                                            </div>
-                                            <div class="header-right">
-                                                <span>$30.00</span>
-                                            </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="testimonial-activation testimonial-pb mb--30">
+                            <!-- Start Single testiminail -->
+                            <div class="testimonial mt--50 mt_md--40 mt_sm--40">
+                                <div class="inner">
+                                    <div class="card-info">
+                                        <div class="card-thumbnail">
+                                            <img src="assets/images/testimonial/final-home--1st.png" alt="Testimonial-image">
                                         </div>
-                                        <div class="pricing-body">
-                                            <p class="description">
-                                                All the Lorem Ipsum generators on the Internet tend to repeat predefined
-                                                chunks as necessary
-                                            </p>
-                                            <div class="check-wrapper">
-                                                <div class="left-area">
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>1 Page with Elementor</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>Design Customization</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>Responsive Design</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>Content Upload</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>Design Customization</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>2 Plugins/Extensions</p>
-                                                    </div>
-                                                </div>
-                                                <div class="right-area">
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>multipage Elementor</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>Design Figma</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>MAintaine Design</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>Content Upload</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>Design With XD</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>8 Plugins/Extensions</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="pricing-footer">
-                                            <a href="#" class="rn-btn d-block">
-                                                <span>ORDER NOW</span>
-                                                <i data-feather="arrow-right"></i>
-                                            </a>
-                                            <div class="time-line">
-                                                <div class="single-cmt d-flex">
-                                                    <i data-feather="clock"></i>
-                                                    <span>2 Days Delivery</span>
-                                                </div>
-                                                <div class="single-cmt d-flex">
-                                                    <i data-feather="activity"></i>
-                                                    <span>Unlimited Revission</span>
-                                                </div>
-                                            </div>
+                                        <div class="card-content">
+                                            <span class="subtitle mt--10">Rainbow-Themes</span>
+                                            <h3 class="title">Nevine Acotanza</h3>
+                                            <span class="designation">Chief Operating Officer</span>
                                         </div>
                                     </div>
-                                    <!-- End -->
-                                </div>
-
-                                <div class="tab-pane fade show active" id="profile" role="tabpanel" aria-labelledby="profile-tab">
-                                    <!-- Pricing Start -->
-                                    <div class="rn-pricing">
-                                        <div class="pricing-header">
-                                            <div class="header-left">
-                                                <h2 class="title">Design Make this Page</h2>
-                                                <span>Elementor</span>
+                                    <div class="card-description">
+                                        <div class="title-area">
+                                            <div class="title-info">
+                                                <h3 class="title">Android App Development</h3>
+                                                <span class="date">via Upwork - Mar 4, 2015 - Aug 30, 2021</span>
                                             </div>
-                                            <div class="header-right">
-                                                <span>$50.00</span>
-                                            </div>
-                                        </div>
-                                        <div class="pricing-body">
-                                            <p class="description">
-                                                Making this the first true generator on the Internet. It uses a
-                                                dictionary & plugin Development.
-                                            </p>
-                                            <div class="check-wrapper">
-                                                <div class="left-area">
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>1 Page with Elementor</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>Design Customization</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>Responsive Design</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>Content Upload</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>Design Customization</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>2 Plugins/Extensions</p>
-                                                    </div>
-                                                </div>
-                                                <div class="right-area">
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>multipage Elementor</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>Design Figma</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>MAintaine Design</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>Content Upload</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>Design With XD</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>8 Plugins/Extensions</p>
-                                                    </div>
-                                                </div>
+                                            <div class="rating">
+                                                <img src="assets/images/icons/rating.png" alt="rating-image">
+                                                <img src="assets/images/icons/rating.png" alt="rating-image">
+                                                <img src="assets/images/icons/rating.png" alt="rating-image">
+                                                <img src="assets/images/icons/rating.png" alt="rating-image">
+                                                <img src="assets/images/icons/rating.png" alt="rating-image">
                                             </div>
                                         </div>
-                                        <div class="pricing-footer">
-                                            <a href="#" class="rn-btn d-block">
-                                                <span>ORDER NOW</span>
-                                                <i data-feather="arrow-right"></i>
-                                            </a>
-                                            <div class="time-line d-flex">
-                                                <div class="single-cmt d-flex">
-                                                    <i data-feather="clock"></i>
-                                                    <span>2 Days Delivery</span>
-                                                </div>
-                                                <div class="single-cmt d-flex">
-                                                    <i data-feather="activity"></i>
-                                                    <span>Unlimited Revission</span>
-                                                </div>
-                                            </div>
-                                        </div>
+                                        <div class="seperator"></div>
+                                        <p class="discription">
+                                            Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam
+                                            sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris
+                                            hendrerit ante. Ut tincidunt est ac dolor aliquam sodales phasellus smauris
+                                            .
+                                        </p>
                                     </div>
-                                    <!-- End -->
-                                </div>
-
-                                <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
-                                    <!-- Pricing Start -->
-                                    <div class="rn-pricing">
-                                        <div class="pricing-header">
-                                            <div class="header-left">
-                                                <h2 class="title">Customize Your Single Page</h2>
-                                                <span>Elementor</span>
-                                            </div>
-                                            <div class="header-right">
-                                                <span>$90.00</span>
-                                            </div>
-                                        </div>
-                                        <div class="pricing-body">
-                                            <p class="description">
-                                                I will install your desire theme and made like Theme demo and customize
-                                                your single page( homepage)
-                                            </p>
-                                            <div class="check-wrapper">
-                                                <div class="left-area">
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>1 Page with Elementor</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>Design Customization</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>Responsive Design</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>Content Upload</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>Design Customization</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>2 Plugins/Extensions</p>
-                                                    </div>
-                                                </div>
-                                                <div class="right-area">
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>multipage Elementor</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>Design Figma</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>MAintaine Design</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>Content Upload</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>Design With XD</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>8 Plugins/Extensions</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="pricing-footer">
-                                            <a href="#" class="rn-btn d-block">
-                                                <span>ORDER NOW</span>
-                                                <i data-feather="arrow-right"></i>
-                                            </a>
-                                            <div class="time-line d-flex">
-                                                <div class="single-cmt d-flex">
-                                                    <i data-feather="clock"></i>
-                                                    <span>2 Days Delivery</span>
-                                                </div>
-                                                <div class="single-cmt d-flex">
-                                                    <i data-feather="activity"></i>
-                                                    <span>Unlimited Revission</span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- End -->
                                 </div>
                             </div>
+                            <!--End Single testiminail -->
+                            <!-- Start Single testiminail -->
+                            <div class="testimonial mt--50 mt_md--40 mt_sm--40">
+                                <div class="inner">
+                                    <div class="card-info">
+                                        <div class="card-thumbnail">
+                                            <img src="assets/images/testimonial/final-home--2nd.png" alt="Testimonial-image">
+                                        </div>
+                                        <div class="card-content">
+                                            <span class="subtitle mt--10">Bound - Trolola</span>
+                                            <h3 class="title">Jone Duone Joe</h3>
+                                            <span class="designation">Operating Officer</span>
+                                        </div>
+                                    </div>
+                                    <div class="card-description">
+                                        <div class="title-area">
+                                            <div class="title-info">
+                                                <h3 class="title">Web App Development</h3>
+                                                <span class="date">Upwork - Mar 4, 2016 - Aug 30, 2021</span>
+                                            </div>
+                                            <div class="rating">
+                                                <img src="assets/images/icons/rating.png" alt="rating-image">
+                                                <img src="assets/images/icons/rating.png" alt="rating-image">
+                                                <img src="assets/images/icons/rating.png" alt="rating-image">
+                                                <img src="assets/images/icons/rating.png" alt="rating-image">
+                                                <img src="assets/images/icons/rating.png" alt="rating-image">
+                                            </div>
+                                        </div>
+                                        <div class="seperator"></div>
+                                        <p class="discription">
+                                            Important fact to nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam
+                                            sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris
+                                            hendrerit ante. Ut tincidunt est ac dolor aliquam sodales phasellus smauris
+                                            .
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--End Single testiminail -->
+                            <!-- Start Single testiminail -->
+                            <div class="testimonial mt--50 mt_md--40 mt_sm--40">
+                                <div class="inner">
+                                    <div class="card-info">
+                                        <div class="card-thumbnail">
+                                            <img src="assets/images/testimonial/final-home--3rd.png" alt="Testimonial-image">
+                                        </div>
+                                        <div class="card-content">
+                                            <span class="subtitle mt--10">Glassfisom</span>
+                                            <h3 class="title">Nevine Dhawan</h3>
+                                            <span class="designation">CEO Of Officer</span>
+                                        </div>
+                                    </div>
+                                    <div class="card-description">
+                                        <div class="title-area">
+                                            <div class="title-info">
+                                                <h3 class="title">Android App Design</h3>
+                                                <span class="date">Fiver - Mar 4, 2015 - Aug 30, 2021</span>
+                                            </div>
+                                            <div class="rating">
+                                                <img src="assets/images/icons/rating.png" alt="rating-image">
+                                                <img src="assets/images/icons/rating.png" alt="rating-image">
+                                                <img src="assets/images/icons/rating.png" alt="rating-image">
+                                                <img src="assets/images/icons/rating.png" alt="rating-image">
+                                                <img src="assets/images/icons/rating.png" alt="rating-image">
+                                            </div>
+                                        </div>
+                                        <div class="seperator"></div>
+                                        <p class="discription">
+                                            No more question for design. Ut tincidunt est ac dolor aliquam
+                                            sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris
+                                            hendrerit ante. Ut tincidunt est ac dolor aliquam sodales phasellus smauris
+                                            .
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--End Single testiminail -->
+
+                            <!-- Start Single testiminail -->
+                            <div class="testimonial mt--50 mt_md--40 mt_sm--40">
+                                <div class="inner">
+                                    <div class="card-info">
+                                        <div class="card-thumbnail">
+                                            <img src="assets/images/testimonial/final-home--4th.png" alt="Testimonial-image">
+                                        </div>
+                                        <div class="card-content">
+                                            <span class="subtitle mt--10">NCD - Design</span>
+                                            <h3 class="title">Mevine Thoda</h3>
+                                            <span class="designation">Marketing Officer</span>
+                                        </div>
+                                    </div>
+                                    <div class="card-description">
+                                        <div class="title-area">
+                                            <div class="title-info">
+                                                <h3 class="title">CEO - Marketing</h3>
+                                                <span class="date">Thoda Department - Mar 4, 2018 - Aug 30, 2021</span>
+                                            </div>
+                                            <div class="rating">
+                                                <img src="assets/images/icons/rating.png" alt="rating-image">
+                                                <img src="assets/images/icons/rating.png" alt="rating-image">
+                                                <img src="assets/images/icons/rating.png" alt="rating-image">
+                                                <img src="assets/images/icons/rating.png" alt="rating-image">
+                                                <img src="assets/images/icons/rating.png" alt="rating-image">
+                                            </div>
+                                        </div>
+                                        <div class="seperator"></div>
+                                        <p class="discription">
+                                            Marcent Of Vanice and treatment. Ut tincidunt est ac dolor aliquam
+                                            sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris
+                                            hendrerit ante. Ut tincidunt est ac dolor aliquam sodales phasellus smauris
+                                            .
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--End Single testiminail -->
+
+                            <!-- Start Single testiminail -->
+                            <div class="testimonial mt--50 mt_md--40 mt_sm--40">
+                                <div class="inner">
+                                    <div class="card-info">
+                                        <div class="card-thumbnail">
+                                            <img src="assets/images/testimonial/final-home--5th.png" alt="Testimonial-image">
+                                        </div>
+                                        <div class="card-content">
+                                            <span class="subtitle mt--10">Default name</span>
+                                            <h3 class="title">Davei Luace</h3>
+                                            <span class="designation">Chief Operating Manager</span>
+                                        </div>
+                                    </div>
+                                    <div class="card-description">
+                                        <div class="title-area">
+                                            <div class="title-info">
+                                                <h3 class="title">Android App Development</h3>
+                                                <span class="date">via Upwork - Mar 4, 2015 - Aug 30, 2021</span>
+                                            </div>
+                                            <div class="rating">
+                                                <img src="assets/images/icons/rating.png" alt="rating-image">
+                                                <img src="assets/images/icons/rating.png" alt="rating-image">
+                                                <img src="assets/images/icons/rating.png" alt="rating-image">
+                                                <img src="assets/images/icons/rating.png" alt="rating-image">
+                                                <img src="assets/images/icons/rating.png" alt="rating-image">
+                                            </div>
+                                        </div>
+                                        <div class="seperator"></div>
+                                        <p class="discription">
+                                            When managment is so important. Ut tincidunt est ac dolor aliquam
+                                            sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris
+                                            hendrerit ante. Ut tincidunt est ac dolor aliquam sodales phasellus smauris
+                                            .
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--End Single testiminail -->
                         </div>
-                        <!-- End -->
                     </div>
                 </div>
             </div>
         </div>
-        <!-- pricing area -->
+        <!-- End Testimonia Area  -->
+
         <!-- Start News Area -->
-        <div class="rn-blog-area rn-section-gap section-separator" id="blog">
+        {{-- <div class="rn-blog-area rn-section-gap section-separator" id="blog">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
@@ -2675,100 +2360,13 @@
 
                 </div>
             </div>
-        </div>
-        <!-- ENd Mews Area -->
-        <!-- Start Contact section -->
-        <div class="rn-contact-area rn-section-gap section-separator" id="contacts">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="section-title text-center">
-                            <span class="subtitle">Contact</span>
-                            <h2 class="title">Contact With Me</h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="row mt--50 mt_md--40 mt_sm--40 mt-contact-sm">
-                    <div class="col-lg-5">
-                        <div class="contact-about-area">
-                            <div class="thumbnail">
-                                <img src="assets/images/contact/contact1.png" alt="contact-img">
-                            </div>
-                            <div class="title-area">
-                                <h4 class="title">Nevine Acotanza</h4>
-                                <span>Chief Operating Officer</span>
-                            </div>
-                            <div class="description">
-                                <p>I am available for freelance work. Connect with me via and call in to my account.
-                                </p>
-                                <span class="phone">Phone: <a href="tel:01941043264">+01234567890</a></span>
-                                <span class="mail">Email: <a href="mailto:admin@example.com">admin@example.com</a></span>
-                            </div>
-                            <div class="social-area">
-                                <div class="name">FIND WITH ME</div>
-                                <div class="social-icone">
-                                    <a href="#"><i data-feather="facebook"></i></a>
-                                    <a href="#"><i data-feather="linkedin"></i></a>
-                                    <a href="#"><i data-feather="instagram"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div data-aos-delay="600" class="col-lg-7 contact-input">
-                        <div class="contact-form-wrapper">
-                            <div class="introduce">
-                                <form class="rnt-contact-form rwt-dynamic-form row" id="contact-form" method="POST" action="mail.php">
-
-                                    <div class="col-lg-6">
-                                        <div class="form-group">
-                                            <label for="contact-name">Your Name</label>
-                                            <input class="form-control form-control-lg" name="contact-name" id="contact-name" type="text">
-                                        </div>
-                                    </div>
-
-                                    <div class="col-lg-6">
-                                        <div class="form-group">
-                                            <label for="contact-phone">Phone Number</label>
-                                            <input class="form-control" name="contact-phone" id="contact-phone" type="text">
-                                        </div>
-                                    </div>
-
-                                    <div class="col-lg-12">
-                                        <div class="form-group">
-                                            <label for="contact-email">Email</label>
-                                            <input class="form-control form-control-sm" id="contact-email" name="contact-email" type="email">
-                                        </div>
-                                    </div>
-
-                                    <div class="col-lg-12">
-                                        <div class="form-group">
-                                            <label for="subject">subject</label>
-                                            <input class="form-control form-control-sm" id="subject" name="subject" type="text">
-                                        </div>
-                                    </div>
-
-                                    <div class="col-lg-12">
-                                        <div class="form-group">
-                                            <label for="contact-message">Your Message</label>
-                                            <textarea name="contact-message" id="contact-message" cols="30" rows="10"></textarea>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-lg-12">
-                                        <button name="submit" type="submit" id="submit" class="rn-btn">
-                                            <span>SEND MESSAGE</span>
-                                            <i data-feather="arrow-right"></i>
-                                        </button>
-                                    </div>
-
-                                </form>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+            <div class="col-lg-12 text-center mt-5">
+                <a class="rn-btn" href="#">All Articles <i class="feather-loader"></i></a>
             </div>
-        </div>
-        <!-- End Contuct section -->
+            
+        </div> --}}
+        <!-- ENd Mews Area -->
+
 
         <!-- Modal Portfolio Body area Start -->
         <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-hidden="true">
@@ -2947,7 +2545,7 @@
                             </a>
                         </div>
 
-                        <p class="description mt--30">© 2021. All rights reserved by <a target="_blank" href="https://themeforest.net/user/rainbow-themes/portfolio">Rainbow-Themes.</a></p>
+                        <p class="description mt--30">© 2021. All rights reserved by <a target="_blank" href="https://rifatshampod.com/">rifatshampod.com</a></p>
                     </div>
                 </div>
             </div>
