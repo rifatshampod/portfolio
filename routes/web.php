@@ -16,5 +16,5 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('index');
 });
-Route::view('developer',"developer");
+// Route::view('developer',"developer");
 Route::view('contact',"contact");

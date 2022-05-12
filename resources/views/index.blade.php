@@ -803,11 +803,11 @@
                             <div class="tab-pane fade" id="experience" role="tabpanel" aria-labelledby="experience-tab">
                                 <div class="personal-experience-inner mt--40">
                                     <div class="row">
-                                        <!-- Start Skill List Area  -->
+                                        <!-- Start Skill List Area full times -->
                                         <div class="col-lg-6 col-md-12 col-12">
                                             <div class="content">
-                                                <span class="subtitle">2007 - 2010</span>
-                                                <h4 class="maintitle">Education Quality</h4>
+                                                <span class="subtitle">2019 - Present</span>
+                                                <h4 class="maintitle">Full Times</h4>
                                                 <div class="experience-list">
 
                                                     <!-- Start Single List  -->
@@ -815,17 +815,18 @@
                                                         <div class="inner">
                                                             <div class="heading">
                                                                 <div class="title">
-                                                                    <h4>Personal Portfolio April Fools</h4>
-                                                                    <span>University of DVI (1997 - 2001)</span>
+                                                                    <h4>Software Architect</h4>
+                                                                    <span>Livetech Solutions Ltd (Nov 2021 - Present)</span>
                                                                 </div>
                                                                 <div class="date-of-time">
-                                                                    <span>4.30/5</span>
+                                                                    <span>Dhaka, Bangladesh</span>
                                                                 </div>
                                                             </div>
-                                                            <p class="description">The education should be very
-                                                                interactual. Ut tincidunt est ac dolor aliquam sodales.
-                                                                Phasellus sed mauris hendrerit, laoreet sem in, lobortis
-                                                                mauris hendrerit ante.</p>
+                                                            <p class="description">Main responsibility is to lead all software
+                                                                projects, manage teamwork and design development strategies, organize
+                                                                marketing and technical initiatives, develop product architecture and 
+                                                                analyse feasibility. 
+                                                            </p>
                                                         </div>
                                                     </div>
                                                     <!-- End Single List  -->
@@ -835,17 +836,16 @@
                                                         <div class="inner">
                                                             <div class="heading">
                                                                 <div class="title">
-                                                                    <h4> Examples Of Personal Portfolio</h4>
-                                                                    <span>College of Studies (2000 - 2002)</span>
+                                                                    <h4> Full Stack Developer</h4>
+                                                                    <span>Livetech Solutions Ltd (Aug 2021 - Oct 2021)</span>
                                                                 </div>
                                                                 <div class="date-of-time">
-                                                                    <span>4.50/5</span>
+                                                                    <span>Dhaka, Bangladesh</span>
                                                                 </div>
                                                             </div>
-                                                            <p class="description">Maecenas finibus nec sem ut
-                                                                imperdiet. Ut tincidunt est ac dolor aliquam sodales.
-                                                                Phasellus sed mauris hendrerit, laoreet sem in, lobortis
-                                                                mauris hendrerit ante.</p>
+                                                            <p class="description">Job description included designing and developing
+                                                                web based application, managing server side applications and tools, planning 
+                                                                product development phases etc.</p>
                                                         </div>
                                                     </div>
                                                     <!-- End Single List  -->
@@ -855,17 +855,19 @@
                                                         <div class="inner">
                                                             <div class="heading">
                                                                 <div class="title">
-                                                                    <h4>Tips For Personal Portfolio</h4>
-                                                                    <span>University of Studies (1997 - 2001)</span>
+                                                                    <h4>Web Developer</h4>
+                                                                    <span>Moocomerce Sdn Bhd (Jan 2019 - Oct 2020)</span>
                                                                 </div>
                                                                 <div class="date-of-time">
-                                                                    <span>4.80/5</span>
+                                                                    <span>PJ, Malaysia</span>
                                                                 </div>
                                                             </div>
-                                                            <p class="description"> If you are going to use a passage.
-                                                                Ut tincidunt est ac dolor aliquam sodales.
-                                                                Phasellus sed mauris hendrerit, laoreet sem in, lobortis
-                                                                mauris hendrerit ante.</p>
+                                                            <p class="description"> Core responsibilities were to 
+                                                                develop E-commerce solutions with inventory 
+                                                                management system, manage running websites and 
+                                                                to provide digital marketing solutions.Developed 
+                                                                multi-country based Ecommerce solutions for 
+                                                                various products.</p>
                                                         </div>
                                                     </div>
                                                     <!-- End Single List  -->
@@ -873,13 +875,13 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <!-- End Skill List Area  -->
+                                        <!-- End Skill List Area full times -->
 
-                                        <!-- Start Skill List Area 2nd  -->
+                                        <!-- Start Skill List Area part times  -->
                                         <div class="col-lg-6 col-md-12 col-12 mt_md--60 mt_sm--60">
                                             <div class="content">
-                                                <span class="subtitle">2007 - 2010</span>
-                                                <h4 class="maintitle">Job Experience</h4>
+                                                <span class="subtitle">2018 - Present</span>
+                                                <h4 class="maintitle">Part Time & Contracts</h4>
                                                 <div class="experience-list">
 
                                                     <!-- Start Single List  -->
@@ -887,17 +889,15 @@
                                                         <div class="inner">
                                                             <div class="heading">
                                                                 <div class="title">
-                                                                    <h4>Diploma in Web Development</h4>
-                                                                    <span>BSE In CSE (2004 - 2008)</span>
-                                                                </div>
-                                                                <div class="date-of-time">
-                                                                    <span>4.70/5</span>
+                                                                    <h4>Chief Information Management Officer </h4>
+                                                                    <span>Leadpedia Sdn Bhd Malaysia (April 2022 - Present)</span>
                                                                 </div>
                                                             </div>
-                                                            <p class="description">Contrary to popular belief. Ut
-                                                                tincidunt est ac dolor aliquam sodales.
-                                                                Phasellus sed mauris hendrerit, laoreet sem in, lobortis
-                                                                mauris hendrerit ante.</p>
+                                                            <p class="description">Contracted responsibilities include 
+                                                                consulting on technical advancements, developing and maintaining 
+                                                                official website, tracking and analysising target audience,
+                                                                improving system performance and so on. 
+                                                            </p>
                                                         </div>
                                                     </div>
                                                     <!-- End Single List  -->
@@ -907,17 +907,13 @@
                                                         <div class="inner">
                                                             <div class="heading">
                                                                 <div class="title">
-                                                                    <h4>The Personal Portfolio Mystery</h4>
-                                                                    <span>Job at Rainbow-Themes (2008 - 2016)</span>
-                                                                </div>
-                                                                <div class="date-of-time">
-                                                                    <span>4.95/5</span>
+                                                                    <h4>Web Developer & IT Product Lead</h4>
+                                                                    <span>ADstreet Multimedia Bangladesh (Nov 2020 - Jul 2021)</span>
                                                                 </div>
                                                             </div>
-                                                            <p class="description">Generate Lorem Ipsum which looks. Ut
-                                                                tincidunt est ac dolor aliquam sodales.
-                                                                Phasellus sed mauris hendrerit, laoreet sem in, lobortis
-                                                                mauris hendrerit ante.</p>
+                                                            <p class="description">Developed official website for Adstreet 
+                                                                Multimedia. Provided web services strategy and developed client 
+                                                                based web services.</p>
                                                         </div>
                                                     </div>
                                                     <!-- End Single List  -->
@@ -927,18 +923,28 @@
                                                         <div class="inner">
                                                             <div class="heading">
                                                                 <div class="title">
-                                                                    <h4>Diploma in Computer Science</h4>
-                                                                    <span>Works at Plugin Development (2016 -
-                                                                2020)</span>
-                                                                </div>
-                                                                <div class="date-of-time">
-                                                                    <span>5.00/5</span>
+                                                                    <h4>Research Application Project Developer</h4>
+                                                                    <span>UM Centre for Continuing Education (UMCCed) (Feb 2021-Apr 2022)</span>
                                                                 </div>
                                                             </div>
-                                                            <p class="description">Maecenas finibus nec sem ut
-                                                                imperdiet. Ut tincidunt est ac dolor aliquam sodales.
-                                                                Phasellus sed mauris hendrerit, laoreet sem in, lobortis
-                                                                mauris hendrerit ante.</p>
+                                                            <p class="description">Developed interactive game application to help reduce smoking initiation.
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <!-- End Single List  -->
+
+                                                    <!-- Start Single List  -->
+                                                    <div class="resume-single-list">
+                                                        <div class="inner">
+                                                            <div class="heading">
+                                                                <div class="title">
+                                                                    <h4>Web Developer</h4>
+                                                                    <span>German Mentor Malaysia (Sep 2018-Dec 2018)</span>
+                                                                </div>
+                                                            </div>
+                                                            <p class="description">Worked on cognitive system development for kids to improve
+                                                                and track behavioral changes with cognitive development. 
+                                                            </p>
                                                         </div>
                                                     </div>
                                                     <!-- End Single List  -->
@@ -946,7 +952,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <!-- End Skill List Area  -->
+                                        <!-- End Skill List Area part times -->
                                     </div>
                                 </div>
                             </div>
@@ -957,10 +963,9 @@
                                 <div class="personal-experience-inner mt--40">
                                     <div class="row">
                                         <!-- Start Skill List Area  -->
-                                        <div class="col-lg-6 col-md-12 col-12">
+                                        <div class="col-lg-12 col-md-12 col-12">
                                             <div class="content">
-                                                <span class="subtitle">2007 - 2010</span>
-                                                <h4 class="maintitle">Company Experience</h4>
+                                            
                                                 <div class="experience-list">
 
                                                     <!-- Start Single List  -->
@@ -968,17 +973,13 @@
                                                         <div class="inner">
                                                             <div class="heading">
                                                                 <div class="title">
-                                                                    <h4>Personal Portfolio April Fools</h4>
-                                                                    <span>University of DVI (1997 - 2001)</span>
+                                                                    <h4>Silver Medal, Young Inventor/ Innovator Category</h4>
+                                                                    <span>2nd International Invention & Innovation In Dentistry Exhibition</span>
                                                                 </div>
                                                                 <div class="date-of-time">
-                                                                    <span>4.30/5</span>
+                                                                    <span>2020</span>
                                                                 </div>
                                                             </div>
-                                                            <p class="description">The education should be very
-                                                                interactual. Ut tincidunt est ac dolor aliquam sodales.
-                                                                Phasellus sed mauris hendrerit, laoreet sem in, lobortis
-                                                                mauris hendrerit ante.</p>
                                                         </div>
                                                     </div>
                                                     <!-- End Single List  -->
@@ -988,17 +989,13 @@
                                                         <div class="inner">
                                                             <div class="heading">
                                                                 <div class="title">
-                                                                    <h4> Examples Of Personal Portfolio</h4>
-                                                                    <span>College of Studies (2000 - 2002)</span>
+                                                                    <h4> University of Malaya Book Award</h4>
+                                                                    <span>University of Malaya (Malaysia)</span>
                                                                 </div>
                                                                 <div class="date-of-time">
-                                                                    <span>4.50/5</span>
+                                                                    <span>2020</span>
                                                                 </div>
                                                             </div>
-                                                            <p class="description">Maecenas finibus nec sem ut
-                                                                imperdiet. Ut tincidunt est ac dolor aliquam sodales.
-                                                                Phasellus sed mauris hendrerit, laoreet sem in, lobortis
-                                                                mauris hendrerit ante.</p>
                                                         </div>
                                                     </div>
                                                     <!-- End Single List  -->
@@ -1008,90 +1005,30 @@
                                                         <div class="inner">
                                                             <div class="heading">
                                                                 <div class="title">
-                                                                    <h4>Tips For Personal Portfolio</h4>
-                                                                    <span>University of Studies (1997 - 2001)</span>
+                                                                    <h4>Finalist in Programming Competition</h4>
+                                                                    <span>National Programming League (Malaysia)</span>
                                                                 </div>
                                                                 <div class="date-of-time">
-                                                                    <span>4.80/5</span>
+                                                                    <span>2019</span>
                                                                 </div>
                                                             </div>
-                                                            <p class="description"> If you are going to use a passage.
-                                                                Ut tincidunt est ac dolor aliquam sodales.
-                                                                Phasellus sed mauris hendrerit, laoreet sem in, lobortis
-                                                                mauris hendrerit ante.</p>
+                                                            <p class="description"></p>
                                                         </div>
                                                     </div>
                                                     <!-- End Single List  -->
-
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- End Skill List Area  -->
-
-                                        <!-- Start Skill List Area 2nd  -->
-                                        <div class="col-lg-6 col-md-12 col-12 mt_md--60 mt_sm--60">
-                                            <div class="content">
-                                                <span class="subtitle">2007 - 2010</span>
-                                                <h4 class="maintitle">Job Experience</h4>
-                                                <div class="experience-list">
-
-                                                    <!-- Start Single List  -->
-                                                    <div data-aos="fade-up" data-aos-duration="500" data-aos-delay="500" data-aos-once="true" class="resume-single-list">
-                                                        <div class="inner">
-                                                            <div class="heading">
-                                                                <div class="title">
-                                                                    <h4>Diploma in Web Development</h4>
-                                                                    <span>BSE In CSE (2004 - 2008)</span>
-                                                                </div>
-                                                                <div class="date-of-time">
-                                                                    <span>4.70/5</span>
-                                                                </div>
-                                                            </div>
-                                                            <p class="description">Contrary to popular belief. Ut
-                                                                tincidunt est ac dolor aliquam sodales.
-                                                                Phasellus sed mauris hendrerit, laoreet sem in, lobortis
-                                                                mauris hendrerit ante.</p>
-                                                        </div>
-                                                    </div>
-                                                    <!-- End Single List  -->
-
                                                     <!-- Start Single List  -->
                                                     <div data-aos="fade-up" data-aos-duration="500" data-aos-delay="700" data-aos-once="true" class="resume-single-list">
                                                         <div class="inner">
                                                             <div class="heading">
                                                                 <div class="title">
-                                                                    <h4>The Personal Portfolio Mystery</h4>
-                                                                    <span>Job at Rainbow-Themes (2008 - 2016)</span>
+                                                                    <h4>Runner Up, Software Day Programming Competition</h4>
+                                                                    <span>FSKTM, UM (Malaysia)</span>
                                                                 </div>
                                                                 <div class="date-of-time">
-                                                                    <span>4.95/5</span>
+                                                                    <span>2017</span>
                                                                 </div>
                                                             </div>
-                                                            <p class="description">Generate Lorem Ipsum which looks. Ut
-                                                                tincidunt est ac dolor aliquam sodales.
-                                                                Phasellus sed mauris hendrerit, laoreet sem in, lobortis
-                                                                mauris hendrerit ante.</p>
-                                                        </div>
-                                                    </div>
-                                                    <!-- End Single List  -->
-
-                                                    <!-- Start Single List  -->
-                                                    <div data-aos="fade-up" data-aos-duration="500" data-aos-delay="900" data-aos-once="true" class="resume-single-list">
-                                                        <div class="inner">
-                                                            <div class="heading">
-                                                                <div class="title">
-                                                                    <h4>Diploma in Computer Science</h4>
-                                                                    <span>Works at Plugin Development (2016 -
-                                                                2020)</span>
-                                                                </div>
-                                                                <div class="date-of-time">
-                                                                    <span>5.00/5</span>
-                                                                </div>
-                                                            </div>
-                                                            <p class="description">Maecenas finibus nec sem ut
-                                                                imperdiet. Ut tincidunt est ac dolor aliquam sodales.
-                                                                Phasellus sed mauris hendrerit, laoreet sem in, lobortis
-                                                                mauris hendrerit ante.</p>
+                                                            <p class="description"></p>
                                                         </div>
                                                     </div>
                                                     <!-- End Single List  -->
@@ -1100,6 +1037,7 @@
                                             </div>
                                         </div>
                                         <!-- End Skill List Area  -->
+
                                     </div>
                                 </div>
                             </div>
@@ -1117,7 +1055,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="section-title">
-                            <span class="subtitle">Popular Clients</span>
+                            <span class="subtitle">Whose trust made my skills brighter</span>
                             <h2 class="title">Awesome Clients</h2>
                         </div>
                     </div>
@@ -1130,30 +1068,29 @@
                                 <ul class="nav tab-navigation-button flex-column nav-pills me-3" id="v-pills-tab" role="tablist">
 
                                     <li class="nav-item">
-                                        <a class="nav-link" id="v-pills-home-tab" data-toggle="tab" href="#v-pills-Javascript" role="tab" aria-selected="true">JavaScript</a>
+                                        <a class="nav-link" id="v-pills-home-tab" data-toggle="tab" href="#v-pills-Javascript" role="tab" aria-selected="true">Development Strategy</a>
                                     </li>
 
 
                                     <li class="nav-item">
-                                        <a class="nav-link active" id="v-pills-profile-tab" data-toggle="tab" href="#v-pills-Design" role="tab" aria-selected="true">Product Design</a>
+                                        <a class="nav-link active" id="v-pills-profile-tab" data-toggle="tab" href="#v-pills-Design" role="tab" aria-selected="true">Project Management</a>
                                     </li>
 
 
                                     <li class="nav-item">
-                                        <a class="nav-link" id="v-pills-wordpress-tab" data-toggle="tab" href="#v-pills-Wordpress" role="tab" aria-selected="true">Wordpress</a>
+                                        <a class="nav-link" id="v-pills-wordpress-tab" data-toggle="tab" href="#v-pills-Wordpress" role="tab" aria-selected="true">Web Development</a>
                                     </li>
 
                                     <li class="nav-item">
-                                        <a class="nav-link" id="v-pills-settings-tabs" data-toggle="tab" href="#v-pills-settings" role="tab" aria-selected="true">HTML to React</a>
+                                        <a class="nav-link" id="v-pills-settings-tabs" data-toggle="tab" href="#v-pills-settings" role="tab" aria-selected="true">Application Development</a>
                                     </li>
 
                                     <li class="nav-item">
-                                        <a class="nav-link" id="v-pills-laravel-tabs" data-toggle="tab" href="#v-pills-laravel" role="tab" aria-selected="true">React
-                                            To Laravel</a>
+                                        <a class="nav-link" id="v-pills-laravel-tabs" data-toggle="tab" href="#v-pills-laravel" role="tab" aria-selected="true">Requirement Analysis</a>
                                     </li>
 
                                     <li class="nav-item">
-                                        <a class="nav-link" id="v-pills-python-tabs" data-toggle="tab" href="#v-pills-python" role="tab" aria-selected="true">Python</a>
+                                        <a class="nav-link" id="v-pills-python-tabs" data-toggle="tab" href="#v-pills-python" role="tab" aria-selected="true">Business Consultancy</a>
                                     </li>
 
 
