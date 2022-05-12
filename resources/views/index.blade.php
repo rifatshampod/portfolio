@@ -756,61 +756,39 @@
                                         </div>
                                         <!-- End Single Progressbar  -->
 
-                                        <!-- Start Single Progressbar Systems & platforms -->
+                                        <!-- Start Single Progressbar Tools -->
                                         <div class="col-lg-6 col-md-6 col-12 mt_sm--60 mb-5 pb-5">
                                             <div class="progress-wrapper">
                                                 <div class="content">
                                                     <span class="subtitle">Features</span>
                                                     <h4 class="maintitle">Development Skill</h4>
-                                                    <!-- Start Single Progress Charts -->
-                                                    <div class="progress-charts">
-                                                        <h6 class="heading heading-h6">HTML</h6>
-                                                        <div class="progress">
-                                                            <div class="progress-bar wow fadeInLeft" data-wow-duration="0.5s" data-wow-delay=".3s" role="progressbar" style="width: 85%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"><span
-                                                            class="percent-label">85%</span></div>
-                                                        </div>
-                                                    </div>
-                                                    <!-- End Single Progress Charts -->
-
-                                                    <!-- Start Single Progress Charts -->
-                                                    <div class="progress-charts">
-                                                        <h6 class="heading heading-h6">CSS</h6>
-                                                        <div class="progress">
-                                                            <div class="progress-bar wow fadeInLeft" data-wow-duration="0.6s" data-wow-delay=".4s" role="progressbar" style="width: 80%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"><span
-                                                            class="percent-label">80%</span></div>
-                                                        </div>
-                                                    </div>
-                                                    <!-- End Single Progress Charts -->
-
-                                                    <!-- Start Single Progress Charts -->
-                                                    <div class="progress-charts">
-                                                        <h6 class="heading heading-h6">JAVASCRIPT</h6>
-                                                        <div class="progress">
-                                                            <div class="progress-bar wow fadeInLeft" data-wow-duration="0.7s" data-wow-delay=".5s" role="progressbar" style="width: 90%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"><span
-                                                            class="percent-label">90%</span></div>
-                                                        </div>
-                                                    </div>
-                                                    <!-- End Single Progress Charts -->
-
-                                                    <!-- Start Single Progress Charts -->
-                                                    <div class="progress-charts">
-                                                        <h6 class="heading heading-h6">SOFTWARE</h6>
-                                                        <div class="progress">
-                                                            <div class="progress-bar wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay=".6s" role="progressbar" style="width: 75%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"><span
-                                                            class="percent-label">75%</span></div>
-                                                        </div>
-                                                    </div>
-                                                    <!-- End Single Progress Charts -->
-
-                                                    <!-- Start Single Progress Charts -->
-                                                    <div class="progress-charts">
-                                                        <h6 class="heading heading-h6">PLUGIN</h6>
-                                                        <div class="progress">
-                                                            <div class="progress-bar wow fadeInLeft" data-wow-duration="0.9s" data-wow-delay=".7s" role="progressbar" style="width: 70%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"><span
-                                                            class="percent-label">70%</span></div>
-                                                        </div>
-                                                    </div>
-                                                    <!-- End Single Progress Charts -->
+                                                                                <!-- Start skiull area -->
+                            <div class="rn-skill-area section-height">
+                                <div class="inner slide">
+                                    <div class="skill-share-inner pt--20">
+                                        <ul class="skill-share  d-flex liststyle">
+                                            <li><img src="assets/images/icons/android-studio.png" alt="Android Studio"></li>
+                                            <li><img src="assets/images/icons/unity.png" alt="Unity"></li>
+                                            <li><img src="assets/images/icons/github.png" alt="Github"></li>
+                                            <li><img src="assets/images/icons/figma.png" alt="Figma"></li>
+                                            <li><img src="assets/images/icons/xd.png" alt="Adobe XD"></li>
+                                            <li><img src="assets/images/icons/jira.png" alt="Jira Project Management"></li>
+                                            <li><img src="assets/images/icons/teamwork.png" alt="Teamwork Project Management"></li>
+                                            <li><img src="assets/images/icons/hubspot.png" alt="Hubspot CRM"></li>
+                                            <li><img src="assets/images/icons/google-search-console.png" alt="Google Search Console"></li>
+                                            <li><img src="assets/images/icons/google-analytics.png" alt="Google Analytics"></li>
+                                            <li><img src="assets/images/icons/google-play-console.png" alt="Google Play Console"></li>
+                                            <li><img src="assets/images/icons/photoshop.png" alt="Adobe Photoshop"></li>
+                                            <li><img src="assets/images/icons/illustrator.png" alt="Adobe Illustrator"></li>
+                                            <li><img src="assets/images/icons/draw-io.png" alt="Draw.io"></li>
+                                            <li><img src="assets/images/icons/office.png" alt="Microsoft Office"></li>
+                                        </ul>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                            <!-- End skiull area -->
+                                    </div>
 
                                                 </div>
                                             </div>
