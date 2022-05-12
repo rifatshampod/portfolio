@@ -761,34 +761,33 @@
                                             <div class="progress-wrapper">
                                                 <div class="content">
                                                     <span class="subtitle">Features</span>
-                                                    <h4 class="maintitle">Development Skill</h4>
-                                                                                <!-- Start skiull area -->
-                            <div class="rn-skill-area section-height">
-                                <div class="inner slide">
-                                    <div class="skill-share-inner pt--20">
-                                        <ul class="skill-share  d-flex liststyle">
-                                            <li><img src="assets/images/icons/android-studio.png" alt="Android Studio"></li>
-                                            <li><img src="assets/images/icons/unity.png" alt="Unity"></li>
-                                            <li><img src="assets/images/icons/github.png" alt="Github"></li>
-                                            <li><img src="assets/images/icons/figma.png" alt="Figma"></li>
-                                            <li><img src="assets/images/icons/xd.png" alt="Adobe XD"></li>
-                                            <li><img src="assets/images/icons/jira.png" alt="Jira Project Management"></li>
-                                            <li><img src="assets/images/icons/teamwork.png" alt="Teamwork Project Management"></li>
-                                            <li><img src="assets/images/icons/hubspot.png" alt="Hubspot CRM"></li>
-                                            <li><img src="assets/images/icons/google-search-console.png" alt="Google Search Console"></li>
-                                            <li><img src="assets/images/icons/google-analytics.png" alt="Google Analytics"></li>
-                                            <li><img src="assets/images/icons/google-play-console.png" alt="Google Play Console"></li>
-                                            <li><img src="assets/images/icons/photoshop.png" alt="Adobe Photoshop"></li>
-                                            <li><img src="assets/images/icons/illustrator.png" alt="Adobe Illustrator"></li>
-                                            <li><img src="assets/images/icons/draw-io.png" alt="Draw.io"></li>
-                                            <li><img src="assets/images/icons/office.png" alt="Microsoft Office"></li>
-                                        </ul>
-                                    </div>
-                                    
-                                </div>
-                            </div>
-                            <!-- End skiull area -->
-                                    </div>
+                                                    <h4 class="maintitle">Tools & Softwares</h4>
+                                                    <!-- Start skiull area -->
+                                                    <div class="rn-skill-area section-height">
+                                                        <div class="inner slide">
+                                                            <div class="skill-share-inner pt--20">
+                                                                <ul class="skill-share  d-flex liststyle">
+                                                                    <li><img src="assets/images/icons/android-studio.png" alt="Android Studio"></li>
+                                                                    <li><img src="assets/images/icons/unity.png" alt="Unity"></li>
+                                                                    <li><img src="assets/images/icons/github.png" alt="Github"></li>
+                                                                    <li><img src="assets/images/icons/figma.png" alt="Figma"></li>
+                                                                    <li><img src="assets/images/icons/xd.png" alt="Adobe XD"></li>
+                                                                    <li><img src="assets/images/icons/jira.png" alt="Jira Project Management"></li>
+                                                                    <li><img src="assets/images/icons/teamwork.png" alt="Teamwork Project Management"></li>
+                                                                    <li><img src="assets/images/icons/hubspot.png" alt="Hubspot CRM"></li>
+                                                                    <li><img src="assets/images/icons/google-search-console.png" alt="Google Search Console"></li>
+                                                                    <li><img src="assets/images/icons/google-analytics.png" alt="Google Analytics"></li>
+                                                                    <li><img src="assets/images/icons/google-play-console.png" alt="Google Play Console"></li>
+                                                                    <li><img src="assets/images/icons/photoshop.png" alt="Adobe Photoshop"></li>
+                                                                    <li><img src="assets/images/icons/illustrator.png" alt="Adobe Illustrator"></li>
+                                                                    <li><img src="assets/images/icons/draw-io.png" alt="Draw.io"></li>
+                                                                    <li><img src="assets/images/icons/office.png" alt="Microsoft Office"></li>
+                                                                </ul>
+                                                            </div>
+                                                            
+                                                        </div>
+                                                    </div>
+                                                    <!-- End skiull area -->
 
                                                 </div>
                                             </div>
