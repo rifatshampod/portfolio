@@ -5,7 +5,7 @@
             <div class="col-lg-2 col-6">
                 <div class="header-left">
                     <div class="logo">
-                        <a href="index.html">
+                        <a href="/">
                             <img src="assets/images/logo/logo.png" alt="logo">
                         </a>
                     </div>
@@ -30,7 +30,7 @@
                     </nav>
                     <!-- Start Header Right  -->
                     <div class="header-right">
-                        <a class="rn-btn" href="contact"><span>CONTACT ME</span></a>
+                        <a class="rn-btn" href="#contacts"><span>CONTACT ME</span></a>
                         <div class="hamberger-menu d-block d-xl-none">
                             <i id="menuBtn" class="feather-menu humberger-menu"></i>
                         </div>
@@ -60,7 +60,7 @@
                         <button class="close-menu-activation close"><i data-feather="x"></i></button>
                     </div>
                 </div>
-                <p class="discription">Inbio is a personal portfolio template. You can customize all.</p>
+                <p class="discription">Rifat Bin Monsur, Software Architect and Full Stack Developer.</p>
             </div>
             <div class="content">
                 <ul class="primary-menu nav nav-pills">
@@ -69,8 +69,8 @@
                     <li class="nav-item"><a class="nav-link smoth-animation" href="#portfolio">Portfolio</a></li>
                     <li class="nav-item"><a class="nav-link smoth-animation" href="#resume">Resume</a></li>
                     <li class="nav-item"><a class="nav-link smoth-animation" href="#clients">Clients</a></li>
-                    <li class="nav-item"><a class="nav-link smoth-animation" href="#pricing">Pricing</a></li>
-                    <li class="nav-item"><a class="nav-link smoth-animation" href="#blog">blog</a></li>
+                    {{-- <li class="nav-item"><a class="nav-link smoth-animation" href="#pricing">Pricing</a></li>
+                    <li class="nav-item"><a class="nav-link smoth-animation" href="#blog">blog</a></li> --}}
                     <li class="nav-item"><a class="nav-link smoth-animation" href="#contacts">Contact</a></li>
                 </ul>
                 <!-- social sharea area -->
