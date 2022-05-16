@@ -223,7 +223,7 @@
                 <div class="row row--25 mt--10 mt_md--10 mt_sm--10">
                     <!-- Start Single Portfolio -->
                     <div data-aos="fade-up" data-aos-delay="100" data-aos-once="true" class="col-lg-6 col-xl-4 col-md-6 col-12 mt--50 mt_md--30 mt_sm--30">
-                        <div class="rn-portfolio" data-toggle="modal" data-target="#exampleModalCenter">
+                        <div class="rn-portfolio" data-toggle="modal" data-target="#inthira">
                             <div class="inner">
                                 <div class="thumbnail">
                                     <a href="javascript:void(0)">
@@ -240,7 +240,7 @@
                                                 600</span>
                                         </div>
                                     </div>
-                                    <h4 class="title"><a href="javascript:void(0)">The services provide for design <i
+                                    <h4 class="title"><a href="javascript:void(0)">Inthira Munion Official Website <i
                                                 class="feather-arrow-up-right"></i></a></h4>
                                 </div>
                             </div>
@@ -250,7 +250,7 @@
 
                     <!-- Start Single Portfolio -->
                     <div data-aos="fade-up" data-aos-delay="300" data-aos-once="true" class="col-lg-6 col-xl-4 col-md-6 col-12 mt--50 mt_md--30 mt_sm--30">
-                        <div class="rn-portfolio" data-toggle="modal" data-target="#exampleModalCenter">
+                        <div class="rn-portfolio" data-toggle="modal" data-target="#pto">
                             <div class="inner">
                                 <div class="thumbnail">
                                     <a href="javascript:void(0)">
@@ -260,15 +260,14 @@
                                 <div class="content">
                                     <div class="category-info">
                                         <div class="category-list">
-                                            <a href="javascript:void(0)">Application</a>
+                                            <a href="javascript:void(0)">Project Management</a>
                                         </div>
                                         <div class="meta">
                                             <span><a href="javascript:void(0)"><i class="feather-heart"></i></a>
                                                 750</span>
                                         </div>
                                     </div>
-                                    <h4 class="title"><a href="javascript:void(0)">Mobile app landing design & app
-                                            maintain<i class="feather-arrow-up-right"></i></a></h4>
+                                    <h4 class="title"><a href="javascript:void(0)">Micro Work Service Marketplace<i class="feather-arrow-up-right"></i></a></h4>
                                 </div>
                             </div>
                         </div>
@@ -277,7 +276,7 @@
 
                     <!-- Start Single Portfolio -->
                     <div data-aos="fade-up" data-aos-delay="500" data-aos-once="true" class="col-lg-6 col-xl-4 col-md-6 col-12 mt--50 mt_md--30 mt_sm--30">
-                        <div class="rn-portfolio" data-toggle="modal" data-target="#exampleModalCenter">
+                        <div class="rn-portfolio" data-toggle="modal" data-target="#account">
                             <div class="inner">
                                 <div class="thumbnail">
                                     <a href="javascript:void(0)">
@@ -287,14 +286,14 @@
                                 <div class="content">
                                     <div class="category-info">
                                         <div class="category-list">
-                                            <a href="javascript:void(0)">Photoshop</a>
+                                            <a href="javascript:void(0)">Development</a>
                                         </div>
                                         <div class="meta">
                                             <span><a href="javascript:void(0)"><i class="feather-heart"></i></a>
                                                 630</span>
                                         </div>
                                     </div>
-                                    <h4 class="title"><a href="javascript:void(0)">Logo design creativity & Application
+                                    <h4 class="title"><a href="javascript:void(0)">Company account management system
                                             <i class="feather-arrow-up-right"></i></a></h4>
                                 </div>
                             </div>
@@ -304,7 +303,7 @@
 
                     <!-- Start Single Portfolio -->
                     <div data-aos="fade-up" data-aos-delay="100" data-aos-once="true" class="col-lg-6 col-xl-4 col-md-6 col-12 mt--50 mt_md--30 mt_sm--30">
-                        <div class="rn-portfolio" data-toggle="modal" data-target="#exampleModalCenter">
+                        <div class="rn-portfolio" data-toggle="modal" data-target="#prolungs">
                             <div class="inner">
                                 <div class="thumbnail">
                                     <a href="javascript:void(0)">
@@ -314,15 +313,14 @@
                                 <div class="content">
                                     <div class="category-info">
                                         <div class="category-list">
-                                            <a href="javascript:void(0)">Figma</a>
+                                            <a href="javascript:void(0)">Development</a>
                                         </div>
                                         <div class="meta">
                                             <span><a href="javascript:void(0)"><i class="feather-heart"></i></a>
                                                 360</span>
                                         </div>
                                     </div>
-                                    <h4 class="title"><a href="javascript:void(0)">Mobile app landing design &
-                                            Services<i class="feather-arrow-up-right"></i></a></h4>
+                                    <h4 class="title"><a href="javascript:void(0)">Prolungs Quit Smoking Application<i class="feather-arrow-up-right"></i></a></h4>
                                 </div>
                             </div>
                         </div>
@@ -331,7 +329,7 @@
 
                     <!-- Start Single Portfolio -->
                     <div data-aos="fade-up" data-aos-delay="300" data-aos-once="true" class="col-lg-6 col-xl-4 col-md-6 col-12 mt--50 mt_md--30 mt_sm--30">
-                        <div class="rn-portfolio" data-toggle="modal" data-target="#exampleModalCenter">
+                        <div class="rn-portfolio" data-toggle="modal" data-target="#notunera">
                             <div class="inner">
                                 <div class="thumbnail">
                                     <a href="javascript:void(0)">
@@ -341,14 +339,14 @@
                                 <div class="content">
                                     <div class="category-info">
                                         <div class="category-list">
-                                            <a href="javascript:void(0)">Web Design</a>
+                                            <a href="javascript:void(0)">Development Strategy</a>
                                         </div>
                                         <div class="meta">
                                             <span><a href="javascript:void(0)"><i class="feather-heart"></i></a>
                                                 280</span>
                                         </div>
                                     </div>
-                                    <h4 class="title"><a href="javascript:void(0)">Design for tecnology & services<i
+                                    <h4 class="title"><a href="javascript:void(0)">Notunera Multivendor Ecommerce Marketplace<i
                                                 class="feather-arrow-up-right"></i></a></h4>
                                 </div>
                             </div>
@@ -358,7 +356,7 @@
 
                     <!-- Start Single Portfolio -->
                     <div data-aos="fade-up" data-aos-delay="500" data-aos-once="true" class="col-lg-6 col-xl-4 col-md-6 col-12 mt--50 mt_md--30 mt_sm--30">
-                        <div class="rn-portfolio" data-toggle="modal" data-target="#exampleModalCenter">
+                        <div class="rn-portfolio" data-toggle="modal" data-target="#knit">
                             <div class="inner">
                                 <div class="thumbnail">
                                     <a href="javascript:void(0)">
@@ -368,14 +366,14 @@
                                 <div class="content">
                                     <div class="category-info">
                                         <div class="category-list">
-                                            <a href="javascript:void(0)">Web Design</a>
+                                            <a href="javascript:void(0)">Project Management</a>
                                         </div>
                                         <div class="meta">
                                             <span><a href="javascript:void(0)"><i class="feather-heart"></i></a>
                                                 690</span>
                                         </div>
                                     </div>
-                                    <h4 class="title"><a href="javascript:void(0)">App for tecnology & services<i
+                                    <h4 class="title"><a href="javascript:void(0)">Knit Production Management System<i
                                                 class="feather-arrow-up-right"></i></a></h4>
                                 </div>
                             </div>
@@ -1457,55 +1455,8 @@
         </div>
         <!-- End Contuct section -->
 
-
-        <!-- Modal Portfolio Body area Start -->
-        <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-hidden="true">
-            <div class="modal-dialog modal-dialog-centered" role="document">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                            <span aria-hidden="true"><i data-feather="x"></i></span>
-                        </button>
-                    </div>
-                    <div class="modal-body">
-                        <div class="row align-items-center">
-
-                            <div class="col-lg-6">
-                                <div class="portfolio-popup-thumbnail">
-                                    <div class="image">
-                                        <img class="w-100" src="assets/images/portfolio/portfolio-04.jpg" alt="slide">
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="col-lg-6">
-                                <div class="text-content">
-                                    <h3>
-                                        <span>Featured - Design</span> App Design Development.
-                                    </h3>
-                                    <p class="mb--30">Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate distinctio assumenda explicabo veniam temporibus eligendi.</p>
-                                    <p>Consectetur adipisicing elit. Cupiditate distinctio assumenda. dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!</p>
-                                    <div class="button-group mt--20">
-                                        <a href="#" class="rn-btn thumbs-icon">
-                                            <span>LIKE THIS</span>
-                                            <i data-feather="thumbs-up"></i>
-                                        </a>
-                                        <a href="#" class="rn-btn">
-                                            <span>VIEW PROJECT</span>
-                                            <i data-feather="chevron-right"></i>
-                                        </a>
-                                    </div>
-
-                                </div>
-                                <!-- End of .text-content -->
-                            </div>
-                        </div>
-                        <!-- End of .row Body-->
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- End Modal Portfolio area -->
+        <x-portfolio-modal/>
+        
         <!-- Modal Blog Body area Start -->
         <div class="modal fade" id="exampleModalCenters" tabindex="-1" role="dialog" aria-hidden="true">
             <div class="modal-dialog modal-dialog-centered modal-news" role="document">
