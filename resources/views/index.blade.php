@@ -1382,21 +1382,21 @@
                                 <img src="assets/images/contact/contact1.png" alt="contact-img">
                             </div>
                             <div class="title-area">
-                                <h4 class="title">Nevine Acotanza</h4>
-                                <span>Chief Operating Officer</span>
+                                <h4 class="title">Rifat Bin Monsur</h4>
+                                <span>Software Architect</span>
                             </div>
                             <div class="description">
-                                <p>I am available for freelance work. Connect with me via and call in to my account.
+                                <p>I am available for project based work. Connect with me via email and call in to my number.
                                 </p>
-                                <span class="phone">Phone: <a href="tel:01941043264">+01234567890</a></span>
-                                <span class="mail">Email: <a href="mailto:admin@example.com">admin@example.com</a></span>
+                                <span class="phone">Phone: <a href="tel:+8801686520282">+880 1686 520282</a></span>
+                                <span class="mail">Email: <a href="mailto:shampodrifat@gmail.com">shampodrifat@gmail.com</a></span>
                             </div>
                             <div class="social-area">
-                                <div class="name">FIND WITH ME</div>
+                                <div class="name">FIND ME IN</div>
                                 <div class="social-icone">
-                                    <a href="#"><i data-feather="facebook"></i></a>
-                                    <a href="#"><i data-feather="linkedin"></i></a>
-                                    <a href="#"><i data-feather="instagram"></i></a>
+                                    <a href="https://www.linkedin.com/in/rifatshampod/"><i data-feather="linkedin"></i></a>
+                                    <a href="https://www.facebook.com/rifatshampod/"><i data-feather="facebook"></i></a>
+                                    <a href="https://github.com/rifatshampod"><i data-feather="github"></i></a>
                                 </div>
                             </div>
                         </div>
