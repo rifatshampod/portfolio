@@ -22,12 +22,12 @@
 
 
                                     <li class="nav-item">
-                                        <a class="nav-link active" id="v-pills-profile-tab" data-toggle="tab" href="#v-pills-Design" role="tab" aria-selected="true">Project Management</a>
+                                        <a class="nav-link" id="v-pills-profile-tab" data-toggle="tab" href="#v-pills-Design" role="tab" aria-selected="true">Project Management</a>
                                     </li>
 
 
                                     <li class="nav-item">
-                                        <a class="nav-link" id="v-pills-wordpress-tab" data-toggle="tab" href="#v-pills-Wordpress" role="tab" aria-selected="true">Web Development</a>
+                                        <a class="nav-link active" id="v-pills-wordpress-tab" data-toggle="tab" href="#v-pills-Wordpress" role="tab" aria-selected="true">Web Development</a>
                                     </li>
 
                                     <li class="nav-item">
@@ -60,10 +60,10 @@
                                             <div class="main-content">
                                                 <div class="inner text-center">
                                                     <div class="thumbnail">
-                                                        <a href="#"><img src="assets/images/client/png/client1.png" alt="Client-image"></a>
+                                                        <a href="#"><img src="assets/images/client/png/1digitalbeacon.png" alt="Client-image"></a>
                                                     </div>
                                                     <div class="seperator"></div>
-                                                    <div class="client-name"><span><a href="#">John Due</a></span>
+                                                    <div class="client-name"><span><a href="#">1 Digital Beacon</a></span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -73,10 +73,10 @@
                                             <div class="main-content">
                                                 <div class="inner text-center">
                                                     <div class="thumbnail">
-                                                        <a href="#"><img src="assets/images/client/png/client2.png" alt="Client-image"></a>
+                                                        <a href="#"><img src="assets/images/client/png/notunera.png" alt="Client-image"></a>
                                                     </div>
                                                     <div class="seperator"></div>
-                                                    <div class="client-name"><span><a href="#">Smiths Marth</a></span>
+                                                    <div class="client-name"><span><a href="#">NotunEra Bangladesh</a></span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -86,10 +86,10 @@
                                             <div class="main-content">
                                                 <div class="inner text-center">
                                                     <div class="thumbnail">
-                                                        <a href="#"><img src="assets/images/client/png/client3.png" alt="Client-image"></a>
+                                                        <a href="#"><img src="assets/images/client/png/kbh.png" alt="Client-image"></a>
                                                     </div>
                                                     <div class="seperator"></div>
-                                                    <div class="client-name"><span><a href="#">Add Dev</a></span>
+                                                    <div class="client-name"><span><a href="#">KBH Workers</a></span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -99,10 +99,10 @@
                                             <div class="main-content">
                                                 <div class="inner text-center">
                                                     <div class="thumbnail">
-                                                        <a href="#"><img src="assets/images/client/png/client4.png" alt="Client-image"></a>
+                                                        <a href="#"><img src="assets/images/client/png/livetech.png" alt="Client-image"></a>
                                                     </div>
                                                     <div class="seperator"></div>
-                                                    <div class="client-name"><span><a href="#">Jone Due</a></span>
+                                                    <div class="client-name"><span><a href="#">Livetech Solutions</a></span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -112,10 +112,10 @@
                                             <div class="main-content">
                                                 <div class="inner text-center">
                                                     <div class="thumbnail">
-                                                        <a href="#"><img src="assets/images/client/png/client1.png" alt="Client-image"></a>
+                                                        <a href="#"><img src="assets/images/client/png/ridealong.png" alt="Client-image"></a>
                                                     </div>
                                                     <div class="seperator"></div>
-                                                    <div class="client-name"><span><a href="#">John Due</a></span>
+                                                    <div class="client-name"><span><a href="#">Ride Along</a></span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -125,10 +125,10 @@
                                             <div class="main-content">
                                                 <div class="inner text-center">
                                                     <div class="thumbnail">
-                                                        <a href="#"><img src="assets/images/client/png/client5.png" alt="Client-image"></a>
+                                                        <a href="#"><img src="assets/images/client/png/moocommerce.png" alt="Client-image"></a>
                                                     </div>
                                                     <div class="seperator"></div>
-                                                    <div class="client-name"><span><a href="#">Adon Smith</a></span>
+                                                    <div class="client-name"><span><a href="#">MooCommerce</a></span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -138,10 +138,10 @@
                                             <div class="main-content">
                                                 <div class="inner text-center">
                                                     <div class="thumbnail">
-                                                        <a href="#"><img src="assets/images/client/png/client1.png" alt="Client-image"></a>
+                                                        <a href="#"><img src="assets/images/client/png/auricmart.png" alt="Client-image"></a>
                                                     </div>
                                                     <div class="seperator"></div>
-                                                    <div class="client-name"><span><a href="#">Smitha Mila</a></span>
+                                                    <div class="client-name"><span><a href="#">Auric Mart</a></span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -151,10 +151,10 @@
                                             <div class="main-content">
                                                 <div class="inner text-center">
                                                     <div class="thumbnail">
-                                                        <a href="#"><img src="assets/images/client/png/client2.png" alt="Client-image"></a>
+                                                        <a href="#"><img src="assets/images/client/png/tripado.png" alt="Client-image"></a>
                                                     </div>
                                                     <div class="seperator"></div>
-                                                    <div class="client-name"><span><a href="#">Sultana Mila</a></span>
+                                                    <div class="client-name"><span><a href="#">The Tripado</a></span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -164,10 +164,10 @@
                                             <div class="main-content">
                                                 <div class="inner text-center">
                                                     <div class="thumbnail">
-                                                        <a href="#"><img src="assets/images/client/png/client1.png" alt="Client-image"></a>
+                                                        <a href="#"><img src="assets/images/client/png/fourtex.png" alt="Client-image"></a>
                                                     </div>
                                                     <div class="seperator"></div>
-                                                    <div class="client-name"><span><a href="#">Jannat</a></span>
+                                                    <div class="client-name"><span><a href="#">Fourtex Travels</a></span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -177,10 +177,10 @@
                                             <div class="main-content">
                                                 <div class="inner text-center">
                                                     <div class="thumbnail">
-                                                        <a href="#"><img src="assets/images/client/png/client5.png" alt="Client-image"></a>
+                                                        <a href="#"><img src="assets/images/client/png/adstreet.png" alt="Client-image"></a>
                                                     </div>
                                                     <div class="seperator"></div>
-                                                    <div class="client-name"><span><a href="#">Mila Dus</a></span>
+                                                    <div class="client-name"><span><a href="#">Adstreet Multimedia</a></span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -190,10 +190,28 @@
                                             <div class="main-content">
                                                 <div class="inner text-center">
                                                     <div class="thumbnail">
-                                                        <a href="#"><img src="assets/images/client/png/client1.png" alt="Client-image"></a>
+                                                        <a href="#"><img src="assets/images/client/png/germanmentor.png" alt="Client-image"></a>
                                                     </div>
                                                     <div class="seperator"></div>
-                                                    <div class="client-name"><span><a href="#">Marth Smiths</a></span>
+                                                    <div class="client-name"><span><a href="#">German Mentor</a></span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- End Single Brand  -->
+                                        </div>
+                                    </div>
+                                    
+                                    <div class="tab-pane fade" id="v-pills-Design" role="tabpanel" aria-labelledby="v-pills-profile-tab">
+                                        <div class="client-card">
+
+                                            <!-- Start Single Brand  -->
+                                            <div class="main-content">
+                                                <div class="inner text-center">
+                                                    <div class="thumbnail">
+                                                        <a href="#"><img src="assets/images/client/png/santsai.png" alt="Client-image"></a>
+                                                    </div>
+                                                    <div class="seperator"></div>
+                                                    <div class="client-name"><span><a href="#">Santsai Machinaries</a></span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -203,10 +221,88 @@
                                             <div class="main-content">
                                                 <div class="inner text-center">
                                                     <div class="thumbnail">
-                                                        <a href="#"><img src="assets/images/client/png/client3.png" alt="Client-image"></a>
+                                                        <a href="#"><img src="assets/images/client/png/prolungs.png" alt="Client-image"></a>
                                                     </div>
                                                     <div class="seperator"></div>
-                                                    <div class="client-name"><span><a href="#">Marth Smiths</a></span>
+                                                    <div class="client-name"><span><a href="#">ProLungs</a></span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- End Single Brand  -->
+
+                                            <!-- Start Single Brand  -->
+                                            <div class="main-content">
+                                                <div class="inner text-center">
+                                                    <div class="thumbnail">
+                                                        <a href="#"><img src="assets/images/client/png/dorjaropashe.png" alt="Client-image"></a>
+                                                    </div>
+                                                    <div class="seperator"></div>
+                                                    <div class="client-name"><span><a href="#">Dorjar Opashe</a></span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- End Single Brand  -->
+
+                                            <!-- Start Single Brand  -->
+                                            <div class="main-content">
+                                                <div class="inner text-center">
+                                                    <div class="thumbnail">
+                                                        <a href="#"><img src="assets/images/client/png/kbh.png" alt="Client-image"></a>
+                                                    </div>
+                                                    <div class="seperator"></div>
+                                                    <div class="client-name"><span><a href="#">KBH Workers</a></span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- End Single Brand  -->
+
+                                            <!-- Start Single Brand  -->
+                                            <div class="main-content">
+                                                <div class="inner text-center">
+                                                    <div class="thumbnail">
+                                                        <a href="#"><img src="assets/images/client/png/1digitalbeacon.png" alt="Client-image"></a>
+                                                    </div>
+                                                    <div class="seperator"></div>
+                                                    <div class="client-name"><span><a href="#">1 Digital Beacon</a></span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- End Single Brand  -->
+
+                                            <!-- Start Single Brand  -->
+                                            <div class="main-content">
+                                                <div class="inner text-center">
+                                                    <div class="thumbnail">
+                                                        <a href="#"><img src="assets/images/client/png/amaronuman.png" alt="Client-image"></a>
+                                                    </div>
+                                                    <div class="seperator"></div>
+                                                    <div class="client-name"><span><a href="#">Amar Onuman</a></span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- End Single Brand  -->
+
+                                            <!-- Start Single Brand  -->
+                                            <div class="main-content">
+                                                <div class="inner text-center">
+                                                    <div class="thumbnail">
+                                                        <a href="#"><img src="assets/images/client/png/friendsperk.png" alt="Client-image"></a>
+                                                    </div>
+                                                    <div class="seperator"></div>
+                                                    <div class="client-name"><span><a href="#">Friendsperk Cafe</a></span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- End Single Brand  -->
+
+                                            <!-- Start Single Brand  -->
+                                            <div class="main-content">
+                                                <div class="inner text-center">
+                                                    <div class="thumbnail">
+                                                        <a href="#"><img src="assets/images/client/png/narayani.png" alt="Client-image"></a>
+                                                    </div>
+                                                    <div class="seperator"></div>
+                                                    <div class="client-name"><span><a href="#">Narayani Namastute</a></span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -215,17 +311,17 @@
                                         </div>
                                     </div>
 
-                                    <div class="tab-pane fade show active" id="v-pills-Design" role="tabpanel" aria-labelledby="v-pills-profile-tab">
+                                    <div class="tab-pane fade show active" id="v-pills-Wordpress" role="tabpanel" aria-labelledby="v-pills-wordpress-tab">
                                         <div class="client-card">
 
                                             <!-- Start Single Brand  -->
                                             <div class="main-content">
                                                 <div class="inner text-center">
                                                     <div class="thumbnail">
-                                                        <a href="#"><img src="assets/images/client/png/client1.png" alt="Client-image"></a>
+                                                        <a href="#"><img src="assets/images/client/png/leadpedia.png" alt="Client-image"></a>
                                                     </div>
                                                     <div class="seperator"></div>
-                                                    <div class="client-name"><span><a href="#">John Due</a></span>
+                                                    <div class="client-name"><span><a href="#">Leadpedia</a></span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -235,10 +331,10 @@
                                             <div class="main-content">
                                                 <div class="inner text-center">
                                                     <div class="thumbnail">
-                                                        <a href="#"><img src="assets/images/client/png/client2.png" alt="Client-image"></a>
+                                                        <a href="#"><img src="assets/images/client/png/aswal.png" alt="Client-image"></a>
                                                     </div>
                                                     <div class="seperator"></div>
-                                                    <div class="client-name"><span><a href="#">Smiths Marth</a></span>
+                                                    <div class="client-name"><span><a href="#">Aswal International</a></span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -248,10 +344,10 @@
                                             <div class="main-content">
                                                 <div class="inner text-center">
                                                     <div class="thumbnail">
-                                                        <a href="#"><img src="assets/images/client/png/client3.png" alt="Client-image"></a>
+                                                        <a href="#"><img src="assets/images/client/png/adstreet.png" alt="Client-image"></a>
                                                     </div>
                                                     <div class="seperator"></div>
-                                                    <div class="client-name"><span><a href="#">Add Dev</a></span>
+                                                    <div class="client-name"><span><a href="#">Adstreet Multimedia</a></span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -261,10 +357,10 @@
                                             <div class="main-content">
                                                 <div class="inner text-center">
                                                     <div class="thumbnail">
-                                                        <a href="#"><img src="assets/images/client/png/client4.png" alt="Client-image"></a>
+                                                        <a href="#"><img src="assets/images/client/png/1digitalbeacon.png" alt="Client-image"></a>
                                                     </div>
                                                     <div class="seperator"></div>
-                                                    <div class="client-name"><span><a href="#">Jone Due</a></span>
+                                                    <div class="client-name"><span><a href="#">1 Digital Beacon</a></span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -274,10 +370,10 @@
                                             <div class="main-content">
                                                 <div class="inner text-center">
                                                     <div class="thumbnail">
-                                                        <a href="#"><img src="assets/images/client/png/client1.png" alt="Client-image"></a>
+                                                        <a href="#"><img src="assets/images/client/png/dorjaropashe.png" alt="Client-image"></a>
                                                     </div>
                                                     <div class="seperator"></div>
-                                                    <div class="client-name"><span><a href="#">John Due</a></span>
+                                                    <div class="client-name"><span><a href="#">Dorjar Opashe</a></span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -287,10 +383,10 @@
                                             <div class="main-content">
                                                 <div class="inner text-center">
                                                     <div class="thumbnail">
-                                                        <a href="#"><img src="assets/images/client/png/client5.png" alt="Client-image"></a>
+                                                        <a href="#"><img src="assets/images/client/png/drsaief.png" alt="Client-image"></a>
                                                     </div>
                                                     <div class="seperator"></div>
-                                                    <div class="client-name"><span><a href="#">Adon Smith</a></span>
+                                                    <div class="client-name"><span><a href="#">Dr Saief</a></span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -300,10 +396,10 @@
                                             <div class="main-content">
                                                 <div class="inner text-center">
                                                     <div class="thumbnail">
-                                                        <a href="#"><img src="assets/images/client/png/client1.png" alt="Client-image"></a>
+                                                        <a href="#"><img src="assets/images/client/png/invicta.png" alt="Client-image"></a>
                                                     </div>
                                                     <div class="seperator"></div>
-                                                    <div class="client-name"><span><a href="#">Smitha Mila</a></span>
+                                                    <div class="client-name"><span><a href="#">Invicta Solutions</a></span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -313,10 +409,10 @@
                                             <div class="main-content">
                                                 <div class="inner text-center">
                                                     <div class="thumbnail">
-                                                        <a href="#"><img src="assets/images/client/png/client2.png" alt="Client-image"></a>
+                                                        <a href="#"><img src="assets/images/client/png/kbh.png" alt="Client-image"></a>
                                                     </div>
                                                     <div class="seperator"></div>
-                                                    <div class="client-name"><span><a href="#">Sultana Mila</a></span>
+                                                    <div class="client-name"><span><a href="#">KBH Workers</a></span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -326,10 +422,10 @@
                                             <div class="main-content">
                                                 <div class="inner text-center">
                                                     <div class="thumbnail">
-                                                        <a href="#"><img src="assets/images/client/png/client1.png" alt="Client-image"></a>
+                                                        <a href="#"><img src="assets/images/client/png/lush.png" alt="Client-image"></a>
                                                     </div>
                                                     <div class="seperator"></div>
-                                                    <div class="client-name"><span><a href="#">Jannat</a></span>
+                                                    <div class="client-name"><span><a href="#">Lush Mannequin Artistry</a></span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -339,10 +435,10 @@
                                             <div class="main-content">
                                                 <div class="inner text-center">
                                                     <div class="thumbnail">
-                                                        <a href="#"><img src="assets/images/client/png/client5.png" alt="Client-image"></a>
+                                                        <a href="#"><img src="assets/images/client/png/sabirnoor.png" alt="Client-image"></a>
                                                     </div>
                                                     <div class="seperator"></div>
-                                                    <div class="client-name"><span><a href="#">Mila Dus</a></span>
+                                                    <div class="client-name"><span><a href="#">HM Sabir Noor</a></span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -352,10 +448,10 @@
                                             <div class="main-content">
                                                 <div class="inner text-center">
                                                     <div class="thumbnail">
-                                                        <a href="#"><img src="assets/images/client/png/client1.png" alt="Client-image"></a>
+                                                        <a href="#"><img src="assets/images/client/png/santsai.png" alt="Client-image"></a>
                                                     </div>
                                                     <div class="seperator"></div>
-                                                    <div class="client-name"><span><a href="#">Marth Smiths</a></span>
+                                                    <div class="client-name"><span><a href="#">Santsai Machinaries</a></span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -365,29 +461,10 @@
                                             <div class="main-content">
                                                 <div class="inner text-center">
                                                     <div class="thumbnail">
-                                                        <a href="#"><img src="assets/images/client/png/client3.png" alt="Client-image"></a>
+                                                        <a href="#"><img src="assets/images/client/png/farooqperfume.png" alt="Client-image"></a>
                                                     </div>
                                                     <div class="seperator"></div>
-                                                    <div class="client-name"><span><a href="#">Marth Smiths</a></span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <!-- End Single Brand  -->
-
-                                        </div>
-                                    </div>
-
-                                    <div class="tab-pane fade" id="v-pills-Wordpress" role="tabpanel" aria-labelledby="v-pills-wordpress-tab">
-                                        <div class="client-card">
-
-                                            <!-- Start Single Brand  -->
-                                            <div class="main-content">
-                                                <div class="inner text-center">
-                                                    <div class="thumbnail">
-                                                        <a href="#"><img src="assets/images/client/png/client1.png" alt="Client-image"></a>
-                                                    </div>
-                                                    <div class="seperator"></div>
-                                                    <div class="client-name"><span><a href="#">John Due</a></span>
+                                                    <div class="client-name"><span><a href="#">Farooq Perfume</a></span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -397,10 +474,10 @@
                                             <div class="main-content">
                                                 <div class="inner text-center">
                                                     <div class="thumbnail">
-                                                        <a href="#"><img src="assets/images/client/png/client2.png" alt="Client-image"></a>
+                                                        <a href="#"><img src="assets/images/client/png/friendsperk.png" alt="Client-image"></a>
                                                     </div>
                                                     <div class="seperator"></div>
-                                                    <div class="client-name"><span><a href="#">Smiths Marth</a></span>
+                                                    <div class="client-name"><span><a href="#">Friendsperk Cafe</a></span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -410,10 +487,10 @@
                                             <div class="main-content">
                                                 <div class="inner text-center">
                                                     <div class="thumbnail">
-                                                        <a href="#"><img src="assets/images/client/png/client3.png" alt="Client-image"></a>
+                                                        <a href="#"><img src="assets/images/client/png/palalikpathshala.png" alt="Client-image"></a>
                                                     </div>
                                                     <div class="seperator"></div>
-                                                    <div class="client-name"><span><a href="#">Add Dev</a></span>
+                                                    <div class="client-name"><span><a href="#">Palalik Pathshala</a></span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -423,10 +500,10 @@
                                             <div class="main-content">
                                                 <div class="inner text-center">
                                                     <div class="thumbnail">
-                                                        <a href="#"><img src="assets/images/client/png/client4.png" alt="Client-image"></a>
+                                                        <a href="#"><img src="assets/images/client/png/auricmart.png" alt="Client-image"></a>
                                                     </div>
                                                     <div class="seperator"></div>
-                                                    <div class="client-name"><span><a href="#">Jone Due</a></span>
+                                                    <div class="client-name"><span><a href="#">Auric Mart</a></span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -436,10 +513,10 @@
                                             <div class="main-content">
                                                 <div class="inner text-center">
                                                     <div class="thumbnail">
-                                                        <a href="#"><img src="assets/images/client/png/client1.png" alt="Client-image"></a>
+                                                        <a href="#"><img src="assets/images/client/png/tripado.png" alt="Client-image"></a>
                                                     </div>
                                                     <div class="seperator"></div>
-                                                    <div class="client-name"><span><a href="#">John Due</a></span>
+                                                    <div class="client-name"><span><a href="#">The Tripado</a></span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -449,10 +526,10 @@
                                             <div class="main-content">
                                                 <div class="inner text-center">
                                                     <div class="thumbnail">
-                                                        <a href="#"><img src="assets/images/client/png/client5.png" alt="Client-image"></a>
+                                                        <a href="#"><img src="assets/images/client/png/fourtex.png" alt="Client-image"></a>
                                                     </div>
                                                     <div class="seperator"></div>
-                                                    <div class="client-name"><span><a href="#">Adon Smith</a></span>
+                                                    <div class="client-name"><span><a href="#">Fourtex Billing</a></span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -462,79 +539,15 @@
                                             <div class="main-content">
                                                 <div class="inner text-center">
                                                     <div class="thumbnail">
-                                                        <a href="#"><img src="assets/images/client/png/client1.png" alt="Client-image"></a>
+                                                        <a href="#"><img src="assets/images/client/png/amaronuman.png" alt="Client-image"></a>
                                                     </div>
                                                     <div class="seperator"></div>
-                                                    <div class="client-name"><span><a href="#">Smitha Mila</a></span>
+                                                    <div class="client-name"><span><a href="#">Amar Onuman</a></span>
                                                     </div>
                                                 </div>
                                             </div>
                                             <!-- End Single Brand  -->
-
-                                            <!-- Start Single Brand  -->
-                                            <div class="main-content">
-                                                <div class="inner text-center">
-                                                    <div class="thumbnail">
-                                                        <a href="#"><img src="assets/images/client/png/client2.png" alt="Client-image"></a>
-                                                    </div>
-                                                    <div class="seperator"></div>
-                                                    <div class="client-name"><span><a href="#">Sultana Mila</a></span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <!-- End Single Brand  -->
-
-                                            <!-- Start Single Brand  -->
-                                            <div class="main-content">
-                                                <div class="inner text-center">
-                                                    <div class="thumbnail">
-                                                        <a href="#"><img src="assets/images/client/png/client1.png" alt="Client-image"></a>
-                                                    </div>
-                                                    <div class="seperator"></div>
-                                                    <div class="client-name"><span><a href="#">Jannat</a></span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <!-- End Single Brand  -->
-
-                                            <!-- Start Single Brand  -->
-                                            <div class="main-content">
-                                                <div class="inner text-center">
-                                                    <div class="thumbnail">
-                                                        <a href="#"><img src="assets/images/client/png/client5.png" alt="Client-image"></a>
-                                                    </div>
-                                                    <div class="seperator"></div>
-                                                    <div class="client-name"><span><a href="#">Mila Dus</a></span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <!-- End Single Brand  -->
-
-                                            <!-- Start Single Brand  -->
-                                            <div class="main-content">
-                                                <div class="inner text-center">
-                                                    <div class="thumbnail">
-                                                        <a href="#"><img src="assets/images/client/png/client1.png" alt="Client-image"></a>
-                                                    </div>
-                                                    <div class="seperator"></div>
-                                                    <div class="client-name"><span><a href="#">Marth Smiths</a></span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <!-- End Single Brand  -->
-
-                                            <!-- Start Single Brand  -->
-                                            <div class="main-content">
-                                                <div class="inner text-center">
-                                                    <div class="thumbnail">
-                                                        <a href="#"><img src="assets/images/client/png/client3.png" alt="Client-image"></a>
-                                                    </div>
-                                                    <div class="seperator"></div>
-                                                    <div class="client-name"><span><a href="#">Marth Smiths</a></span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <!-- End Single Brand  -->
+                                            
 
                                         </div>
                                     </div>

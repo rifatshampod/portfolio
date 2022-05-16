@@ -227,7 +227,7 @@
                             <div class="inner">
                                 <div class="thumbnail">
                                     <a href="javascript:void(0)">
-                                        <img src="assets/images/portfolio/portfolio-01.jpg" alt="Personal Portfolio Images">
+                                        <img src="assets/images/portfolio/inthira.png" alt="Personal Portfolio Images">
                                     </a>
                                 </div>
                                 <div class="content">
@@ -254,7 +254,7 @@
                             <div class="inner">
                                 <div class="thumbnail">
                                     <a href="javascript:void(0)">
-                                        <img src="assets/images/portfolio/portfolio-02.jpg" alt="Personal Portfolio Images">
+                                        <img src="assets/images/portfolio/pto.png" alt="Personal Portfolio Images">
                                     </a>
                                 </div>
                                 <div class="content">
@@ -280,7 +280,7 @@
                             <div class="inner">
                                 <div class="thumbnail">
                                     <a href="javascript:void(0)">
-                                        <img src="assets/images/portfolio/portfolio-03.jpg" alt="Personal Portfolio Images">
+                                        <img src="assets/images/portfolio/account.png" alt="Personal Portfolio Images">
                                     </a>
                                 </div>
                                 <div class="content">
@@ -307,7 +307,7 @@
                             <div class="inner">
                                 <div class="thumbnail">
                                     <a href="javascript:void(0)">
-                                        <img src="assets/images/portfolio/portfolio-04.jpg" alt="Personal Portfolio Images">
+                                        <img src="assets/images/portfolio/prolungs.png" alt="Personal Portfolio Images">
                                     </a>
                                 </div>
                                 <div class="content">
@@ -333,7 +333,7 @@
                             <div class="inner">
                                 <div class="thumbnail">
                                     <a href="javascript:void(0)">
-                                        <img src="assets/images/portfolio/portfolio-05.jpg" alt="Personal Portfolio Images">
+                                        <img src="assets/images/portfolio/notunera.png" alt="Personal Portfolio Images">
                                     </a>
                                 </div>
                                 <div class="content">
@@ -360,7 +360,7 @@
                             <div class="inner">
                                 <div class="thumbnail">
                                     <a href="javascript:void(0)">
-                                        <img src="assets/images/portfolio/portfolio-06.jpg" alt="Personal Portfolio Images">
+                                        <img src="assets/images/portfolio/knit.png" alt="Personal Portfolio Images">
                                     </a>
                                 </div>
                                 <div class="content">

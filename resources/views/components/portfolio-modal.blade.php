@@ -13,7 +13,7 @@
                             <div class="col-lg-6">
                                 <div class="portfolio-popup-thumbnail">
                                     <div class="image">
-                                        <img class="w-100" src="assets/images/portfolio/portfolio-04.jpg" alt="slide">
+                                        <img class="w-100" src="assets/images/portfolio/inthira.png" alt="slide">
                                     </div>
                                 </div>
                             </div>
@@ -65,7 +65,7 @@
                             <div class="col-lg-6">
                                 <div class="portfolio-popup-thumbnail">
                                     <div class="image">
-                                        <img class="w-100" src="assets/images/portfolio/portfolio-04.jpg" alt="slide">
+                                        <img class="w-100" src="assets/images/portfolio/pto.png" alt="slide">
                                     </div>
                                 </div>
                             </div>
@@ -118,7 +118,7 @@
                             <div class="col-lg-6">
                                 <div class="portfolio-popup-thumbnail">
                                     <div class="image">
-                                        <img class="w-100" src="assets/images/portfolio/portfolio-04.jpg" alt="slide">
+                                        <img class="w-100" src="assets/images/portfolio/account.png" alt="slide">
                                     </div>
                                 </div>
                             </div>
@@ -170,7 +170,7 @@
                             <div class="col-lg-6">
                                 <div class="portfolio-popup-thumbnail">
                                     <div class="image">
-                                        <img class="w-100" src="assets/images/portfolio/portfolio-04.jpg" alt="slide">
+                                        <img class="w-100" src="assets/images/portfolio/prolungs.png" alt="slide">
                                     </div>
                                 </div>
                             </div>
@@ -219,7 +219,7 @@
                             <div class="col-lg-6">
                                 <div class="portfolio-popup-thumbnail">
                                     <div class="image">
-                                        <img class="w-100" src="assets/images/portfolio/portfolio-04.jpg" alt="slide">
+                                        <img class="w-100" src="assets/images/portfolio/notunera.png" alt="slide">
                                     </div>
                                 </div>
                             </div>
@@ -272,7 +272,7 @@
                             <div class="col-lg-6">
                                 <div class="portfolio-popup-thumbnail">
                                     <div class="image">
-                                        <img class="w-100" src="assets/images/portfolio/portfolio-04.jpg" alt="slide">
+                                        <img class="w-100" src="assets/images/portfolio/knit.png" alt="slide">
                                     </div>
                                 </div>
                             </div>
