@@ -1049,7 +1049,7 @@
 
         <x-client/>
 
-                <!-- Start Testimonia Area  -->
+        <!-- Start Testimonia Area  -->
         <div class="rn-testimonial-area rn-section-gap section-separator" id="testimonial">
             <div class="container">
                 <div class="row">
@@ -1068,19 +1068,19 @@
                                 <div class="inner">
                                     <div class="card-info">
                                         <div class="card-thumbnail">
-                                            <img src="assets/images/testimonial/final-home--1st.png" alt="Testimonial-image">
+                                            <img src="assets/images/testimonial/mushfiq.jpg" alt="Testimonial-image">
                                         </div>
                                         <div class="card-content">
-                                            <span class="subtitle mt--10">Rainbow-Themes</span>
-                                            <h3 class="title">Nevine Acotanza</h3>
-                                            <span class="designation">Chief Operating Officer</span>
+                                            <span class="subtitle mt--10">NotunEra Bangladesh</span>
+                                            <h3 class="title">Md Musfiqur Rahman</h3>
+                                            <span class="designation">Chief Technology Officer</span>
                                         </div>
                                     </div>
                                     <div class="card-description">
                                         <div class="title-area">
                                             <div class="title-info">
-                                                <h3 class="title">Android App Development</h3>
-                                                <span class="date">via Upwork - Mar 4, 2015 - Aug 30, 2021</span>
+                                                <h3 class="title">Website Solution</h3>
+                                                <span class="date">Feb 2021 - Present</span>
                                             </div>
                                             <div class="rating">
                                                 <img src="assets/images/icons/rating.png" alt="rating-image">
@@ -1092,10 +1092,10 @@
                                         </div>
                                         <div class="seperator"></div>
                                         <p class="discription">
-                                            Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam
-                                            sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris
-                                            hendrerit ante. Ut tincidunt est ac dolor aliquam sodales phasellus smauris
-                                            .
+                                            Rifat’s team really helped us solving a lot of web related 
+                                            challenges from the initial stage of our startup. They have been 
+                                            providing professional, practical and satisfactory solutions for 
+                                            our company.
                                         </p>
                                     </div>
                                 </div>
@@ -1106,155 +1106,40 @@
                                 <div class="inner">
                                     <div class="card-info">
                                         <div class="card-thumbnail">
-                                            <img src="assets/images/testimonial/final-home--2nd.png" alt="Testimonial-image">
+                                            <img src="assets/images/testimonial/emily.jpg" alt="Testimonial-image">
                                         </div>
                                         <div class="card-content">
-                                            <span class="subtitle mt--10">Bound - Trolola</span>
-                                            <h3 class="title">Jone Duone Joe</h3>
-                                            <span class="designation">Operating Officer</span>
+                                            <span class="subtitle mt--10">Efoo Creative</span>
+                                            <h3 class="title">Emily Lai</h3>
+                                            <span class="designation">Founder & Brand Designer</span>
                                         </div>
                                     </div>
                                     <div class="card-description">
                                         <div class="title-area">
                                             <div class="title-info">
-                                                <h3 class="title">Web App Development</h3>
-                                                <span class="date">Upwork - Mar 4, 2016 - Aug 30, 2021</span>
+                                                <h3 class="title">Development Strategy & Consultancy</h3>
+                                                <span class="date">Mar 2020 - Present</span>
                                             </div>
-                                            <div class="rating">
+                                            {{-- <div class="rating">
                                                 <img src="assets/images/icons/rating.png" alt="rating-image">
                                                 <img src="assets/images/icons/rating.png" alt="rating-image">
                                                 <img src="assets/images/icons/rating.png" alt="rating-image">
                                                 <img src="assets/images/icons/rating.png" alt="rating-image">
                                                 <img src="assets/images/icons/rating.png" alt="rating-image">
-                                            </div>
+                                            </div> --}}
                                         </div>
                                         <div class="seperator"></div>
                                         <p class="discription">
-                                            Important fact to nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam
-                                            sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris
-                                            hendrerit ante. Ut tincidunt est ac dolor aliquam sodales phasellus smauris
-                                            .
+                                            Rifat is so attentive and supportive of my website. 
+                                            He went above and beyond to back me up on the tech side 
+                                            and literally saved me so much time and headaches! Amazing 
+                                            technical knowledge!
                                         </p>
                                     </div>
                                 </div>
                             </div>
                             <!--End Single testiminail -->
-                            <!-- Start Single testiminail -->
-                            <div class="testimonial mt--50 mt_md--40 mt_sm--40">
-                                <div class="inner">
-                                    <div class="card-info">
-                                        <div class="card-thumbnail">
-                                            <img src="assets/images/testimonial/final-home--3rd.png" alt="Testimonial-image">
-                                        </div>
-                                        <div class="card-content">
-                                            <span class="subtitle mt--10">Glassfisom</span>
-                                            <h3 class="title">Nevine Dhawan</h3>
-                                            <span class="designation">CEO Of Officer</span>
-                                        </div>
-                                    </div>
-                                    <div class="card-description">
-                                        <div class="title-area">
-                                            <div class="title-info">
-                                                <h3 class="title">Android App Design</h3>
-                                                <span class="date">Fiver - Mar 4, 2015 - Aug 30, 2021</span>
-                                            </div>
-                                            <div class="rating">
-                                                <img src="assets/images/icons/rating.png" alt="rating-image">
-                                                <img src="assets/images/icons/rating.png" alt="rating-image">
-                                                <img src="assets/images/icons/rating.png" alt="rating-image">
-                                                <img src="assets/images/icons/rating.png" alt="rating-image">
-                                                <img src="assets/images/icons/rating.png" alt="rating-image">
-                                            </div>
-                                        </div>
-                                        <div class="seperator"></div>
-                                        <p class="discription">
-                                            No more question for design. Ut tincidunt est ac dolor aliquam
-                                            sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris
-                                            hendrerit ante. Ut tincidunt est ac dolor aliquam sodales phasellus smauris
-                                            .
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--End Single testiminail -->
-
-                            <!-- Start Single testiminail -->
-                            <div class="testimonial mt--50 mt_md--40 mt_sm--40">
-                                <div class="inner">
-                                    <div class="card-info">
-                                        <div class="card-thumbnail">
-                                            <img src="assets/images/testimonial/final-home--4th.png" alt="Testimonial-image">
-                                        </div>
-                                        <div class="card-content">
-                                            <span class="subtitle mt--10">NCD - Design</span>
-                                            <h3 class="title">Mevine Thoda</h3>
-                                            <span class="designation">Marketing Officer</span>
-                                        </div>
-                                    </div>
-                                    <div class="card-description">
-                                        <div class="title-area">
-                                            <div class="title-info">
-                                                <h3 class="title">CEO - Marketing</h3>
-                                                <span class="date">Thoda Department - Mar 4, 2018 - Aug 30, 2021</span>
-                                            </div>
-                                            <div class="rating">
-                                                <img src="assets/images/icons/rating.png" alt="rating-image">
-                                                <img src="assets/images/icons/rating.png" alt="rating-image">
-                                                <img src="assets/images/icons/rating.png" alt="rating-image">
-                                                <img src="assets/images/icons/rating.png" alt="rating-image">
-                                                <img src="assets/images/icons/rating.png" alt="rating-image">
-                                            </div>
-                                        </div>
-                                        <div class="seperator"></div>
-                                        <p class="discription">
-                                            Marcent Of Vanice and treatment. Ut tincidunt est ac dolor aliquam
-                                            sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris
-                                            hendrerit ante. Ut tincidunt est ac dolor aliquam sodales phasellus smauris
-                                            .
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--End Single testiminail -->
-
-                            <!-- Start Single testiminail -->
-                            <div class="testimonial mt--50 mt_md--40 mt_sm--40">
-                                <div class="inner">
-                                    <div class="card-info">
-                                        <div class="card-thumbnail">
-                                            <img src="assets/images/testimonial/final-home--5th.png" alt="Testimonial-image">
-                                        </div>
-                                        <div class="card-content">
-                                            <span class="subtitle mt--10">Default name</span>
-                                            <h3 class="title">Davei Luace</h3>
-                                            <span class="designation">Chief Operating Manager</span>
-                                        </div>
-                                    </div>
-                                    <div class="card-description">
-                                        <div class="title-area">
-                                            <div class="title-info">
-                                                <h3 class="title">Android App Development</h3>
-                                                <span class="date">via Upwork - Mar 4, 2015 - Aug 30, 2021</span>
-                                            </div>
-                                            <div class="rating">
-                                                <img src="assets/images/icons/rating.png" alt="rating-image">
-                                                <img src="assets/images/icons/rating.png" alt="rating-image">
-                                                <img src="assets/images/icons/rating.png" alt="rating-image">
-                                                <img src="assets/images/icons/rating.png" alt="rating-image">
-                                                <img src="assets/images/icons/rating.png" alt="rating-image">
-                                            </div>
-                                        </div>
-                                        <div class="seperator"></div>
-                                        <p class="discription">
-                                            When managment is so important. Ut tincidunt est ac dolor aliquam
-                                            sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris
-                                            hendrerit ante. Ut tincidunt est ac dolor aliquam sodales phasellus smauris
-                                            .
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--End Single testiminail -->
+                            
                         </div>
                     </div>
                 </div>
