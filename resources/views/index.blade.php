@@ -1262,7 +1262,7 @@
                     <div class="col-lg-5">
                         <div class="contact-about-area">
                             <div class="thumbnail">
-                                <img src="assets/images/contact/contact1.png" alt="contact-img">
+                                <img src="assets/images/contact/quote.jpg" alt="contact-img">
                             </div>
                             <div class="title-area">
                                 <h4 class="title">Rifat Bin Monsur</h4>
@@ -1287,8 +1287,8 @@
                     <div data-aos-delay="600" class="col-lg-7 contact-input">
                         <div class="contact-form-wrapper">
                             <div class="introduce">
-                                <form class="rnt-contact-form rwt-dynamic-form row" id="contact-form" method="POST" action="mail.php">
-
+                                <form class="rnt-contact-form rwt-dynamic-form row" id="contact-form" method="POST" action="contact">
+                                    @csrf
                                     <div class="col-lg-6">
                                         <div class="form-group">
                                             <label for="contact-name">Your Name</label>
@@ -1306,7 +1306,7 @@
                                     <div class="col-lg-12">
                                         <div class="form-group">
                                             <label for="contact-email">Email</label>
-                                            <input class="form-control form-control-sm" id="contact-email" name="contact-email" type="email">
+                                            <input class="form-control form-control-sm" id="contact-email" name="contact-email" type="email" required>
                                         </div>
                                     </div>
 
@@ -1325,7 +1325,7 @@
                                     </div>
 
                                     <div class="col-lg-12">
-                                        <button name="submit" type="submit" id="submit" class="rn-btn">
+                                        <button name="submit" type="submit" class="rn-btn">
                                             <span>SEND MESSAGE</span>
                                             <i data-feather="arrow-right"></i>
                                         </button>
@@ -1423,7 +1423,7 @@
                                     <div class="col-lg-6 col-md-12 col-12">
                                         <div class="rnform-group"><input type="text" placeholder="Name">
                                         </div>
-                                        <div class="rnform-group"><input type="email" placeholder="Email">
+                                        <div class="rnform-group"><input type="email" placeholder="Email" required>
                                         </div>
                                         <div class="rnform-group"><input type="text" placeholder="Website">
                                         </div>
@@ -1434,7 +1434,7 @@
                                         </div>
                                     </div>
                                     <div class="col-lg-12">
-                                        <a class="rn-btn" href="#"><span>SUBMIT NOW</span></a>
+                                        <button class="rn-btn"type="submit"><span>SUBMIT NOW</span></a>
                                     </div>
                                 </div>
                             </form>
