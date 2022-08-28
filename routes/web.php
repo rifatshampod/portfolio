@@ -17,3 +17,4 @@ Route::get('/', function () {
     return view('index');
 });
 Route::view('blog','blog');
+Route::view('blog-single','singleBlog');
