@@ -18,19 +18,19 @@
                     <nav id="sideNav" class="mainmenu-nav navbar-example2 d-none d-xl-block">
                         <!-- Start Mainmanu Nav -->
                         <ul class="primary-menu nav nav-pills">
-                            <li class="nav-item"><a class="nav-link smoth-animation active" href="#home">Home</a></li>
-                            <li class="nav-item"><a class="nav-link smoth-animation" href="#features">Features</a></li>
-                            <li class="nav-item"><a class="nav-link smoth-animation" href="#portfolio">Portfolio</a></li>
-                            <li class="nav-item"><a class="nav-link smoth-animation" href="#resume">Resume</a></li>
-                            <li class="nav-item"><a class="nav-link smoth-animation" href="#clients">Clients</a></li>
-                            {{-- <li class="nav-item"><a class="nav-link smoth-animation" href="#blog">blog</a></li> --}}
+                            <li class="nav-item px-2"><a href="/#home">Home</a></li>
+                            <li class="nav-item px-2"><a  href="/#features">Features</a></li>
+                            <li class="nav-item px-2"><a  href="/#portfolio">Portfolio</a></li>
+                            <li class="nav-item px-2"><a  href="/#resume">Resume</a></li>
+                            <li class="nav-item px-2"><a  href="/#clients">Clients</a></li>
+                            <li class="nav-item px-2"><a  href="/blog">blog</a></li>
 
                         </ul>
                         <!-- End Mainmanu Nav -->
                     </nav>
                     <!-- Start Header Right  -->
                     <div class="header-right">
-                        <a class="rn-btn" href="#contacts"><span>CONTACT ME</span></a>
+                        <a class="rn-btn" href="/#contacts"><span>CONTACT ME</span></a>
                         <div class="hamberger-menu d-block d-xl-none">
                             <i id="menuBtn" class="feather-menu humberger-menu"></i>
                         </div>
@@ -64,7 +64,7 @@
             </div>
             <div class="content">
                 <ul class="primary-menu nav nav-pills">
-                    <li class="nav-item"><a class="nav-link smoth-animation" href="#home">Home</a></li>
+                    <li class="nav-item"><a class="nav-link smoth-animation" href="index#home">Home</a></li>
                     <li class="nav-item"><a class="nav-link smoth-animation" href="#features">Features</a></li>
                     <li class="nav-item"><a class="nav-link smoth-animation" href="#portfolio">Portfolio</a></li>
                     <li class="nav-item"><a class="nav-link smoth-animation" href="#resume">Resume</a></li>
