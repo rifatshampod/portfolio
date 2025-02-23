@@ -1,7 +1,6 @@
 <?php
 
 namespace App\Http\Controllers\Admin;
-
 use App\Http\Requests\ArticleRequest;
 use Backpack\CRUD\app\Http\Controllers\CrudController;
 use Backpack\CRUD\app\Library\CrudPanel\CrudPanelFacade as CRUD;
@@ -39,14 +38,7 @@ class ArticleCrudController extends CrudController
      */
     protected function setupListOperation()
     {
-        CRUD::column('id');
-        CRUD::column('type_id');
-        CRUD::column('title');
-        CRUD::column('image');
-        CRUD::column('date');
-        CRUD::column('readtime');
-        CRUD::column('created_at');
-        CRUD::column('updated_at');
+        CRUD::setFromDb(); // columns
 
         /**
          * Columns can be defined using the fluent syntax or array syntax:
@@ -65,14 +57,7 @@ class ArticleCrudController extends CrudController
     {
         CRUD::setValidation(ArticleRequest::class);
 
-        CRUD::field('id');
-        CRUD::field('type_id');
-        CRUD::field('title');
-        CRUD::field('image');
-        CRUD::field('date');
-        CRUD::field('readtime');
-        CRUD::field('created_at');
-        CRUD::field('updated_at');
+        CRUD::setFromDb(); // fields
 
         /**
          * Fields can be defined using the fluent syntax or array syntax:

@@ -1,0 +1,18 @@
+created:
+    - database/factories/Models/CategoryFactory.php
+    - database/factories/Models/ArticleFactory.php
+    - database/factories/Models/TagFactory.php
+    - database/migrations/2022_08_28_203945_create_categories_table.php
+    - database/migrations/2022_08_28_203946_create_articles_table.php
+    - database/migrations/2022_08_28_203947_create_tags_table.php
+    - database/migrations/2022_08_28_203948_create_article_tag_table.php
+    - app/Models/Models/Category.php
+    - app/Models/Models/Article.php
+    - app/Models/Models/Tag.php
+    - database/seeders/ArticleSeeder.php
+    - database/seeders/CategorySeeder.php
+    - database/seeders/TagSeeder.php
+models:
+    Models\Category: { parent_id: 'id foreign:categories nullable', Ift: 'integer unsigned nullable', rgt: 'integer unsigned nullable', depth: 'integer unsigned nullable', name: string, slug: 'string unique', timestamps: timestamps, softdeletes: softDeletes, relationships: { hasMany: Article } }
+    Models\Article: { category_id: 'id foreign', title: string, slug: 'string unique default:''''', content: text, image: 'string nullable', status: 'enum:PUBLISHED,DRAFT', date: date, featured: 'boolean default:0', timestamps: timestamps, softdeletes: softDeletes, relationships: { belongsToMany: Tag } }
+    Models\Tag: { name: string, slug: 'string unique', timestamps: timestamps, softdeletes: softDeletes, relationships: { belongsToMany: Article } }
