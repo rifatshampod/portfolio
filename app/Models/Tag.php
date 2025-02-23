@@ -6,7 +6,7 @@ use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\SoftDeletes;
 
-class Category extends Model
+class Tag extends Model
 {
     use \Backpack\CRUD\app\Models\Traits\CrudTrait;
     use HasFactory, SoftDeletes;
@@ -17,10 +17,6 @@ class Category extends Model
      * @var array
      */
     protected $fillable = [
-        'parent_id',
-        'Ift',
-        'rgt',
-        'depth',
         'name',
         'slug',
     ];
@@ -32,16 +28,10 @@ class Category extends Model
      */
     protected $casts = [
         'id' => 'integer',
-        'parent_id' => 'integer',
     ];
 
     public function articles()
     {
-        return $this->hasMany(Article::class);
-    }
-
-    public function parent()
-    {
-        return $this->belongsTo(Category::class);
+        return $this->belongsToMany(Article::class);
     }
 }

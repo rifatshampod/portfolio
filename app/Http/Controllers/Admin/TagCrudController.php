@@ -1,17 +1,17 @@
 <?php
 
 namespace App\Http\Controllers\Admin;
-
-use App\Http\Requests\TypeRequest;
+use App\Models\Tag;
+use App\Http\Requests\TagRequest;
 use Backpack\CRUD\app\Http\Controllers\CrudController;
 use Backpack\CRUD\app\Library\CrudPanel\CrudPanelFacade as CRUD;
 
 /**
- * Class TypeCrudController
+ * Class TagCrudController
  * @package App\Http\Controllers\Admin
  * @property-read \Backpack\CRUD\app\Library\CrudPanel\CrudPanel $crud
  */
-class TypeCrudController extends CrudController
+class TagCrudController extends CrudController
 {
     use \Backpack\CRUD\app\Http\Controllers\Operations\ListOperation;
     use \Backpack\CRUD\app\Http\Controllers\Operations\CreateOperation;
@@ -26,9 +26,9 @@ class TypeCrudController extends CrudController
      */
     public function setup()
     {
-        CRUD::setModel(\App\Models\Type::class);
-        CRUD::setRoute(config('backpack.base.route_prefix') . '/type');
-        CRUD::setEntityNameStrings('type', 'types');
+        CRUD::setModel(\App\Models\Tag::class);
+        CRUD::setRoute(config('backpack.base.route_prefix') . '/tag');
+        CRUD::setEntityNameStrings('tag', 'tags');
     }
 
     /**
@@ -39,10 +39,7 @@ class TypeCrudController extends CrudController
      */
     protected function setupListOperation()
     {
-        CRUD::column('id');
-        CRUD::column('name');
-        CRUD::column('created_at');
-        CRUD::column('updated_at');
+        CRUD::setFromDb(); // columns
 
         /**
          * Columns can be defined using the fluent syntax or array syntax:
@@ -59,12 +56,9 @@ class TypeCrudController extends CrudController
      */
     protected function setupCreateOperation()
     {
-        CRUD::setValidation(TypeRequest::class);
+        CRUD::setValidation(TagRequest::class);
 
-        CRUD::field('id');
-        CRUD::field('name');
-        CRUD::field('created_at');
-        CRUD::field('updated_at');
+        CRUD::setFromDb(); // fields
 
         /**
          * Fields can be defined using the fluent syntax or array syntax:

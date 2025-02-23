@@ -1,16 +1,17 @@
 <?php
 
 namespace App\Http\Controllers\Admin;
-use App\Http\Requests\ArticleRequest;
+use App\Models\Category;
+use App\Http\Requests\CategoryRequest;
 use Backpack\CRUD\app\Http\Controllers\CrudController;
 use Backpack\CRUD\app\Library\CrudPanel\CrudPanelFacade as CRUD;
 
 /**
- * Class ArticleCrudController
+ * Class CategoryCrudController
  * @package App\Http\Controllers\Admin
  * @property-read \Backpack\CRUD\app\Library\CrudPanel\CrudPanel $crud
  */
-class ArticleCrudController extends CrudController
+class CategoryCrudController extends CrudController
 {
     use \Backpack\CRUD\app\Http\Controllers\Operations\ListOperation;
     use \Backpack\CRUD\app\Http\Controllers\Operations\CreateOperation;
@@ -25,9 +26,9 @@ class ArticleCrudController extends CrudController
      */
     public function setup()
     {
-        CRUD::setModel(\App\Models\Article::class);
-        CRUD::setRoute(config('backpack.base.route_prefix') . '/article');
-        CRUD::setEntityNameStrings('article', 'articles');
+        CRUD::setModel(\App\Models\Category::class);
+        CRUD::setRoute(config('backpack.base.route_prefix') . '/category');
+        CRUD::setEntityNameStrings('category', 'categories');
     }
 
     /**
@@ -55,7 +56,7 @@ class ArticleCrudController extends CrudController
      */
     protected function setupCreateOperation()
     {
-        CRUD::setValidation(ArticleRequest::class);
+        CRUD::setValidation(CategoryRequest::class);
 
         CRUD::setFromDb(); // fields
 
